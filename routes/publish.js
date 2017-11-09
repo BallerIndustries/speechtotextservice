@@ -30,27 +30,25 @@ router.post('/', upload.single('audio'), function(req, res) {
         content_type: req.file.mimetype,
         timestamps: true,
         word_alternatives_threshold: 0.9,
+        speaker_labels: true
     };
 
     speech_to_text.recognize(params, function(error, transcript) {
         if (error)
             console.log('Error:', error);
         else {
+            transcript.filename ='10001-90210-01803.wav' ;
             quickGist({
                 content: JSON.stringify(transcript, null, 2),
-                description: 'This gist is the best', // Optional
                 public: false, // Whether the gist should be public or unlisted. Defaults to false (unlisted).
                 enterpriseOnly: false, // Prohibit posting to GitHub.com. Defaults to false. Useful if you're posting company secrets.
                 fileExtension: 'md' // Optionally force a file extension if you don't want to rely on language-classifier.
                 }, function(err, resp, data) {
                 console.log(data);
+                res.send(data.html_url);
             });
-            res.send("ok");
         }
     });
-
-
-
 
 });
 
