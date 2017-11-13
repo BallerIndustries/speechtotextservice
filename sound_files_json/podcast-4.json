@@ -1,0 +1,700 @@
+{
+  "results": [
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "but",
+              0.87,
+              1.09
+            ],
+            [
+              "I",
+              1.2,
+              1.48
+            ],
+            [
+              "was",
+              1.51,
+              1.65
+            ],
+            [
+              "that",
+              1.65,
+              1.82
+            ],
+            [
+              "time",
+              1.82,
+              2.29
+            ],
+            [
+              "or",
+              2.75,
+              3.04
+            ]
+          ],
+          "confidence": 0.757,
+          "transcript": "but I was that time or "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "as",
+              4.01,
+              4.47
+            ],
+            [
+              "like",
+              4.5,
+              4.82
+            ],
+            [
+              "the",
+              4.82,
+              4.94
+            ],
+            [
+              "micro",
+              4.94,
+              5.59
+            ],
+            [
+              "aggressions",
+              5.59,
+              6.3
+            ],
+            [
+              "in",
+              6.3,
+              6.41
+            ],
+            [
+              "queens",
+              6.41,
+              7.07
+            ]
+          ],
+          "confidence": 0.682,
+          "transcript": "as like the micro aggressions in queens "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "comecei",
+              8.38,
+              9.01
+            ],
+            [
+              "the",
+              9.01,
+              9.16
+            ],
+            [
+              "cracks",
+              9.16,
+              9.95
+            ]
+          ],
+          "confidence": 0.784,
+          "transcript": "comecei the cracks "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "it's",
+              10.84,
+              11.11
+            ],
+            [
+              "like",
+              11.11,
+              11.5
+            ],
+            [
+              "it",
+              11.5,
+              11.85
+            ],
+            [
+              "wouldn't",
+              11.95,
+              12.34
+            ],
+            [
+              "snogging",
+              12.84,
+              13.38
+            ]
+          ],
+          "confidence": 0.294,
+          "transcript": "it's like it wouldn't snogging "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "doc",
+              13.6,
+              14.04
+            ]
+          ],
+          "confidence": 0.414,
+          "transcript": "doc "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 14.42,
+          "alternatives": [
+            {
+              "confidence": 0.979,
+              "word": "just"
+            }
+          ],
+          "end_time": 14.69
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "just",
+              14.42,
+              14.69
+            ],
+            [
+              "days",
+              14.69,
+              15.11
+            ],
+            [
+              "talking",
+              15.11,
+              15.57
+            ],
+            [
+              "to",
+              15.57,
+              15.71
+            ],
+            [
+              "become",
+              15.71,
+              16.18
+            ],
+            [
+              "creating",
+              16.27,
+              16.84
+            ]
+          ],
+          "confidence": 0.412,
+          "transcript": "just days talking to become creating "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "exhausting",
+              17.32,
+              17.99
+            ]
+          ],
+          "confidence": 0.756,
+          "transcript": "exhausting "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "really",
+              18.96,
+              19.46
+            ],
+            [
+              "exhausting",
+              19.46,
+              20.17
+            ]
+          ],
+          "confidence": 0.276,
+          "transcript": "really exhausting "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "sun",
+              20.74,
+              21.26
+            ],
+            [
+              "room",
+              21.26,
+              21.88
+            ],
+            [
+              "yeah",
+              22.2,
+              22.45
+            ],
+            [
+              "that",
+              22.51,
+              22.73
+            ],
+            [
+              "was",
+              22.73,
+              22.91
+            ],
+            [
+              "like",
+              22.91,
+              23.17
+            ],
+            [
+              "my",
+              23.17,
+              23.33
+            ],
+            [
+              "sense",
+              23.36,
+              23.86
+            ]
+          ],
+          "confidence": 0.712,
+          "transcript": "sun room yeah that was like my sense "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 25.11,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "and"
+            }
+          ],
+          "end_time": 25.33
+        },
+        {
+          "start_time": 25.33,
+          "alternatives": [
+            {
+              "confidence": 0.9817,
+              "word": "that"
+            }
+          ],
+          "end_time": 25.55
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              25.11,
+              25.33
+            ],
+            [
+              "that",
+              25.33,
+              25.55
+            ],
+            [
+              "jobs",
+              25.55,
+              25.86
+            ],
+            [
+              "will",
+              25.86,
+              26
+            ],
+            [
+              "be",
+              26,
+              26.13
+            ],
+            [
+              "and",
+              26.13,
+              26.38
+            ]
+          ],
+          "confidence": 0.633,
+          "transcript": "and that jobs will be and "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0,
+  "speaker_labels": [
+    {
+      "from": 0.87,
+      "to": 1.09,
+      "speaker": 0,
+      "confidence": 0.431,
+      "final": false
+    },
+    {
+      "from": 1.2,
+      "to": 1.48,
+      "speaker": 0,
+      "confidence": 0.436,
+      "final": false
+    },
+    {
+      "from": 1.51,
+      "to": 1.65,
+      "speaker": 0,
+      "confidence": 0.522,
+      "final": false
+    },
+    {
+      "from": 1.65,
+      "to": 1.82,
+      "speaker": 0,
+      "confidence": 0.522,
+      "final": false
+    },
+    {
+      "from": 1.82,
+      "to": 2.29,
+      "speaker": 0,
+      "confidence": 0.522,
+      "final": false
+    },
+    {
+      "from": 2.75,
+      "to": 3.04,
+      "speaker": 1,
+      "confidence": 0.538,
+      "final": false
+    },
+    {
+      "from": 4.01,
+      "to": 4.47,
+      "speaker": 0,
+      "confidence": 0.565,
+      "final": false
+    },
+    {
+      "from": 4.5,
+      "to": 4.82,
+      "speaker": 0,
+      "confidence": 0.351,
+      "final": false
+    },
+    {
+      "from": 4.82,
+      "to": 4.94,
+      "speaker": 0,
+      "confidence": 0.351,
+      "final": false
+    },
+    {
+      "from": 4.94,
+      "to": 5.59,
+      "speaker": 0,
+      "confidence": 0.351,
+      "final": false
+    },
+    {
+      "from": 5.59,
+      "to": 6.3,
+      "speaker": 0,
+      "confidence": 0.351,
+      "final": false
+    },
+    {
+      "from": 6.3,
+      "to": 6.41,
+      "speaker": 0,
+      "confidence": 0.351,
+      "final": false
+    },
+    {
+      "from": 6.41,
+      "to": 7.07,
+      "speaker": 0,
+      "confidence": 0.351,
+      "final": false
+    },
+    {
+      "from": 8.38,
+      "to": 9.01,
+      "speaker": 0,
+      "confidence": 0.373,
+      "final": false
+    },
+    {
+      "from": 9.01,
+      "to": 9.16,
+      "speaker": 0,
+      "confidence": 0.373,
+      "final": false
+    },
+    {
+      "from": 9.16,
+      "to": 9.95,
+      "speaker": 0,
+      "confidence": 0.373,
+      "final": false
+    },
+    {
+      "from": 10.84,
+      "to": 11.11,
+      "speaker": 0,
+      "confidence": 0.469,
+      "final": false
+    },
+    {
+      "from": 11.11,
+      "to": 11.5,
+      "speaker": 0,
+      "confidence": 0.469,
+      "final": false
+    },
+    {
+      "from": 11.5,
+      "to": 11.85,
+      "speaker": 0,
+      "confidence": 0.469,
+      "final": false
+    },
+    {
+      "from": 11.95,
+      "to": 12.34,
+      "speaker": 1,
+      "confidence": 0.572,
+      "final": false
+    },
+    {
+      "from": 12.84,
+      "to": 13.38,
+      "speaker": 1,
+      "confidence": 0.311,
+      "final": false
+    },
+    {
+      "from": 13.6,
+      "to": 14.04,
+      "speaker": 1,
+      "confidence": 0.26,
+      "final": false
+    },
+    {
+      "from": 14.42,
+      "to": 14.69,
+      "speaker": 0,
+      "confidence": 0.404,
+      "final": false
+    },
+    {
+      "from": 14.69,
+      "to": 15.11,
+      "speaker": 0,
+      "confidence": 0.404,
+      "final": false
+    },
+    {
+      "from": 15.11,
+      "to": 15.57,
+      "speaker": 0,
+      "confidence": 0.404,
+      "final": false
+    },
+    {
+      "from": 15.57,
+      "to": 15.71,
+      "speaker": 0,
+      "confidence": 0.404,
+      "final": false
+    },
+    {
+      "from": 15.71,
+      "to": 16.18,
+      "speaker": 0,
+      "confidence": 0.404,
+      "final": false
+    },
+    {
+      "from": 16.27,
+      "to": 16.84,
+      "speaker": 1,
+      "confidence": 0.521,
+      "final": false
+    },
+    {
+      "from": 17.32,
+      "to": 17.99,
+      "speaker": 1,
+      "confidence": 0.576,
+      "final": false
+    },
+    {
+      "from": 18.96,
+      "to": 19.46,
+      "speaker": 1,
+      "confidence": 0.596,
+      "final": false
+    },
+    {
+      "from": 19.46,
+      "to": 20.17,
+      "speaker": 1,
+      "confidence": 0.596,
+      "final": false
+    },
+    {
+      "from": 20.74,
+      "to": 21.26,
+      "speaker": 1,
+      "confidence": 0.457,
+      "final": false
+    },
+    {
+      "from": 21.26,
+      "to": 21.88,
+      "speaker": 1,
+      "confidence": 0.457,
+      "final": false
+    },
+    {
+      "from": 22.2,
+      "to": 22.45,
+      "speaker": 1,
+      "confidence": 0.526,
+      "final": false
+    },
+    {
+      "from": 22.51,
+      "to": 22.73,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 22.73,
+      "to": 22.91,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 22.91,
+      "to": 23.17,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 23.17,
+      "to": 23.33,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 23.36,
+      "to": 23.86,
+      "speaker": 1,
+      "confidence": 0.487,
+      "final": false
+    },
+    {
+      "from": 25.11,
+      "to": 25.33,
+      "speaker": 1,
+      "confidence": 0.475,
+      "final": false
+    },
+    {
+      "from": 25.33,
+      "to": 25.55,
+      "speaker": 1,
+      "confidence": 0.475,
+      "final": false
+    },
+    {
+      "from": 25.55,
+      "to": 25.86,
+      "speaker": 1,
+      "confidence": 0.475,
+      "final": false
+    },
+    {
+      "from": 25.86,
+      "to": 26,
+      "speaker": 1,
+      "confidence": 0.475,
+      "final": false
+    },
+    {
+      "from": 26,
+      "to": 26.13,
+      "speaker": 1,
+      "confidence": 0.475,
+      "final": false
+    },
+    {
+      "from": 26.13,
+      "to": 26.38,
+      "speaker": 1,
+      "confidence": 0.475,
+      "final": true
+    }
+  ],
+  "filename": "podcast-4.mp3"
+}

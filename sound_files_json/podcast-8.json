@@ -1,0 +1,798 @@
+{
+  "results": [
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "first",
+              1.97,
+              2.34
+            ],
+            [
+              "day",
+              2.34,
+              2.65
+            ],
+            [
+              "on",
+              2.69,
+              2.89
+            ],
+            [
+              "the",
+              2.89,
+              3.03
+            ],
+            [
+              "job",
+              3.03,
+              3.32
+            ]
+          ],
+          "confidence": 0.616,
+          "transcript": "first day on the job "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 3.8,
+          "alternatives": [
+            {
+              "confidence": 0.95,
+              "word": "and"
+            }
+          ],
+          "end_time": 4.09
+        },
+        {
+          "start_time": 4.38,
+          "alternatives": [
+            {
+              "confidence": 0.9342,
+              "word": "I"
+            }
+          ],
+          "end_time": 4.89
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              3.8,
+              4.09
+            ],
+            [
+              "I",
+              4.38,
+              4.89
+            ]
+          ],
+          "confidence": 0.893,
+          "transcript": "and I "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I",
+              6.09,
+              6.33
+            ],
+            [
+              "got",
+              6.33,
+              6.57
+            ],
+            [
+              "there",
+              6.57,
+              6.71
+            ],
+            [
+              "at",
+              6.71,
+              6.92
+            ],
+            [
+              "nine",
+              6.92,
+              7.08
+            ],
+            [
+              "o'clock",
+              7.08,
+              7.55
+            ]
+          ],
+          "confidence": 0.474,
+          "transcript": "I got there at nine o'clock "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "the",
+              8,
+              8.07
+            ],
+            [
+              "CTR",
+              8.07,
+              8.89
+            ]
+          ],
+          "confidence": 0.062,
+          "transcript": "the CTR "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "but",
+              10.41,
+              10.6
+            ],
+            [
+              "it's",
+              10.6,
+              10.72
+            ],
+            [
+              "something",
+              10.72,
+              10.98
+            ],
+            [
+              "to",
+              10.98,
+              11.1
+            ],
+            [
+              "get",
+              11.1,
+              11.29
+            ],
+            [
+              "there",
+              11.29,
+              11.4
+            ],
+            [
+              "and",
+              11.4,
+              11.61
+            ]
+          ],
+          "confidence": 0.336,
+          "transcript": "but it's something to get there and "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 12.43,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "so"
+            }
+          ],
+          "end_time": 12.6
+        },
+        {
+          "start_time": 12.6,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "I"
+            }
+          ],
+          "end_time": 12.7
+        },
+        {
+          "start_time": 12.7,
+          "alternatives": [
+            {
+              "confidence": 0.9814,
+              "word": "spent"
+            }
+          ],
+          "end_time": 13.21
+        },
+        {
+          "start_time": 13.26,
+          "alternatives": [
+            {
+              "confidence": 0.9815,
+              "word": "about"
+            }
+          ],
+          "end_time": 13.8
+        },
+        {
+          "start_time": 13.8,
+          "alternatives": [
+            {
+              "confidence": 0.9815,
+              "word": "an"
+            }
+          ],
+          "end_time": 13.91
+        },
+        {
+          "start_time": 14.07,
+          "alternatives": [
+            {
+              "confidence": 0.9762,
+              "word": "hour"
+            }
+          ],
+          "end_time": 14.49
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "so",
+              12.43,
+              12.6
+            ],
+            [
+              "I",
+              12.6,
+              12.7
+            ],
+            [
+              "spent",
+              12.7,
+              13.21
+            ],
+            [
+              "about",
+              13.26,
+              13.8
+            ],
+            [
+              "an",
+              13.8,
+              13.91
+            ],
+            [
+              "hour",
+              14.07,
+              14.49
+            ]
+          ],
+          "confidence": 0.933,
+          "transcript": "so I spent about an hour "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "yeah",
+              15.28,
+              15.74
+            ],
+            [
+              "out",
+              15.8,
+              16.04
+            ],
+            [
+              "was",
+              16.04,
+              16.29
+            ],
+            [
+              "about",
+              16.29,
+              16.5
+            ],
+            [
+              "like",
+              16.5,
+              16.65
+            ],
+            [
+              "coffin",
+              16.65,
+              17.15
+            ],
+            [
+              "now",
+              17.15,
+              17.39
+            ]
+          ],
+          "confidence": 0.511,
+          "transcript": "yeah out was about like coffin now "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "to",
+              17.96,
+              18.15
+            ],
+            [
+              "to",
+              18.15,
+              18.3
+            ],
+            [
+              "buy",
+              18.3,
+              18.45
+            ],
+            [
+              "myself",
+              18.45,
+              18.95
+            ],
+            [
+              "at",
+              19.13,
+              19.3
+            ],
+            [
+              "a",
+              19.3,
+              19.33
+            ],
+            [
+              "table",
+              19.33,
+              19.85
+            ],
+            [
+              "I",
+              20.32,
+              20.6
+            ],
+            [
+              "know",
+              20.77,
+              20.97
+            ],
+            [
+              "what",
+              20.97,
+              21.26
+            ],
+            [
+              "you",
+              21.26,
+              21.35
+            ],
+            [
+              "do",
+              21.35,
+              21.47
+            ],
+            [
+              "some",
+              21.47,
+              21.68
+            ],
+            [
+              "sounds",
+              21.68,
+              21.96
+            ],
+            [
+              "to",
+              21.96,
+              22.1
+            ],
+            [
+              "me",
+              22.1,
+              22.39
+            ]
+          ],
+          "confidence": 0.672,
+          "transcript": "to to buy myself at a table I know what you do some sounds to me "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0,
+  "speaker_labels": [
+    {
+      "from": 1.97,
+      "to": 2.34,
+      "speaker": 0,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 2.34,
+      "to": 2.65,
+      "speaker": 0,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 2.69,
+      "to": 2.89,
+      "speaker": 0,
+      "confidence": 0.578,
+      "final": false
+    },
+    {
+      "from": 2.89,
+      "to": 3.03,
+      "speaker": 0,
+      "confidence": 0.578,
+      "final": false
+    },
+    {
+      "from": 3.03,
+      "to": 3.32,
+      "speaker": 0,
+      "confidence": 0.578,
+      "final": false
+    },
+    {
+      "from": 3.8,
+      "to": 4.09,
+      "speaker": 1,
+      "confidence": 0.593,
+      "final": false
+    },
+    {
+      "from": 4.38,
+      "to": 4.89,
+      "speaker": 1,
+      "confidence": 0.584,
+      "final": false
+    },
+    {
+      "from": 6.09,
+      "to": 6.33,
+      "speaker": 1,
+      "confidence": 0.444,
+      "final": false
+    },
+    {
+      "from": 6.33,
+      "to": 6.57,
+      "speaker": 1,
+      "confidence": 0.444,
+      "final": false
+    },
+    {
+      "from": 6.57,
+      "to": 6.71,
+      "speaker": 1,
+      "confidence": 0.444,
+      "final": false
+    },
+    {
+      "from": 6.71,
+      "to": 6.92,
+      "speaker": 1,
+      "confidence": 0.444,
+      "final": false
+    },
+    {
+      "from": 6.92,
+      "to": 7.08,
+      "speaker": 1,
+      "confidence": 0.444,
+      "final": false
+    },
+    {
+      "from": 7.08,
+      "to": 7.55,
+      "speaker": 1,
+      "confidence": 0.444,
+      "final": false
+    },
+    {
+      "from": 8,
+      "to": 8.07,
+      "speaker": 0,
+      "confidence": 0.558,
+      "final": false
+    },
+    {
+      "from": 8.07,
+      "to": 8.89,
+      "speaker": 0,
+      "confidence": 0.558,
+      "final": false
+    },
+    {
+      "from": 10.41,
+      "to": 10.6,
+      "speaker": 0,
+      "confidence": 0.465,
+      "final": false
+    },
+    {
+      "from": 10.6,
+      "to": 10.72,
+      "speaker": 0,
+      "confidence": 0.465,
+      "final": false
+    },
+    {
+      "from": 10.72,
+      "to": 10.98,
+      "speaker": 0,
+      "confidence": 0.465,
+      "final": false
+    },
+    {
+      "from": 10.98,
+      "to": 11.1,
+      "speaker": 0,
+      "confidence": 0.465,
+      "final": false
+    },
+    {
+      "from": 11.1,
+      "to": 11.29,
+      "speaker": 0,
+      "confidence": 0.465,
+      "final": false
+    },
+    {
+      "from": 11.29,
+      "to": 11.4,
+      "speaker": 0,
+      "confidence": 0.465,
+      "final": false
+    },
+    {
+      "from": 11.4,
+      "to": 11.61,
+      "speaker": 0,
+      "confidence": 0.465,
+      "final": false
+    },
+    {
+      "from": 12.43,
+      "to": 12.6,
+      "speaker": 0,
+      "confidence": 0.56,
+      "final": false
+    },
+    {
+      "from": 12.6,
+      "to": 12.7,
+      "speaker": 0,
+      "confidence": 0.56,
+      "final": false
+    },
+    {
+      "from": 12.7,
+      "to": 13.21,
+      "speaker": 0,
+      "confidence": 0.56,
+      "final": false
+    },
+    {
+      "from": 13.26,
+      "to": 13.8,
+      "speaker": 1,
+      "confidence": 0.577,
+      "final": false
+    },
+    {
+      "from": 13.8,
+      "to": 13.91,
+      "speaker": 1,
+      "confidence": 0.577,
+      "final": false
+    },
+    {
+      "from": 14.07,
+      "to": 14.49,
+      "speaker": 1,
+      "confidence": 0.507,
+      "final": false
+    },
+    {
+      "from": 15.28,
+      "to": 15.74,
+      "speaker": 0,
+      "confidence": 0.506,
+      "final": false
+    },
+    {
+      "from": 15.8,
+      "to": 16.04,
+      "speaker": 1,
+      "confidence": 0.539,
+      "final": false
+    },
+    {
+      "from": 16.04,
+      "to": 16.29,
+      "speaker": 1,
+      "confidence": 0.539,
+      "final": false
+    },
+    {
+      "from": 16.29,
+      "to": 16.5,
+      "speaker": 1,
+      "confidence": 0.539,
+      "final": false
+    },
+    {
+      "from": 16.5,
+      "to": 16.65,
+      "speaker": 1,
+      "confidence": 0.539,
+      "final": false
+    },
+    {
+      "from": 16.65,
+      "to": 17.15,
+      "speaker": 1,
+      "confidence": 0.539,
+      "final": false
+    },
+    {
+      "from": 17.15,
+      "to": 17.39,
+      "speaker": 1,
+      "confidence": 0.539,
+      "final": false
+    },
+    {
+      "from": 17.96,
+      "to": 18.15,
+      "speaker": 1,
+      "confidence": 0.413,
+      "final": false
+    },
+    {
+      "from": 18.15,
+      "to": 18.3,
+      "speaker": 1,
+      "confidence": 0.413,
+      "final": false
+    },
+    {
+      "from": 18.3,
+      "to": 18.45,
+      "speaker": 1,
+      "confidence": 0.413,
+      "final": false
+    },
+    {
+      "from": 18.45,
+      "to": 18.95,
+      "speaker": 1,
+      "confidence": 0.413,
+      "final": false
+    },
+    {
+      "from": 19.13,
+      "to": 19.3,
+      "speaker": 0,
+      "confidence": 0.397,
+      "final": false
+    },
+    {
+      "from": 19.3,
+      "to": 19.33,
+      "speaker": 0,
+      "confidence": 0.397,
+      "final": false
+    },
+    {
+      "from": 19.33,
+      "to": 19.85,
+      "speaker": 0,
+      "confidence": 0.397,
+      "final": false
+    },
+    {
+      "from": 20.32,
+      "to": 20.6,
+      "speaker": 1,
+      "confidence": 0.464,
+      "final": false
+    },
+    {
+      "from": 20.77,
+      "to": 20.97,
+      "speaker": 0,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 20.97,
+      "to": 21.26,
+      "speaker": 0,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 21.26,
+      "to": 21.35,
+      "speaker": 0,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 21.35,
+      "to": 21.47,
+      "speaker": 0,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 21.47,
+      "to": 21.68,
+      "speaker": 0,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 21.68,
+      "to": 21.96,
+      "speaker": 0,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 21.96,
+      "to": 22.1,
+      "speaker": 0,
+      "confidence": 0.63,
+      "final": false
+    },
+    {
+      "from": 22.1,
+      "to": 22.39,
+      "speaker": 0,
+      "confidence": 0.63,
+      "final": true
+    }
+  ],
+  "filename": "podcast-8.mp3"
+}

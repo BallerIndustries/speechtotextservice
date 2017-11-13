@@ -1,0 +1,667 @@
+{
+  "results": [
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I",
+              0.34,
+              0.41
+            ],
+            [
+              "have",
+              0.41,
+              0.66
+            ],
+            [
+              "been",
+              0.79,
+              1.02
+            ],
+            [
+              "I",
+              1.3,
+              1.39
+            ],
+            [
+              "have",
+              1.39,
+              1.7
+            ],
+            [
+              "been",
+              2.11,
+              2.29
+            ],
+            [
+              "married",
+              2.29,
+              2.84
+            ],
+            [
+              "for",
+              2.84,
+              2.99
+            ]
+          ],
+          "confidence": 0.676,
+          "transcript": "I have been I have been married for "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "W.",
+              3.83,
+              4.42
+            ]
+          ],
+          "confidence": 0.088,
+          "transcript": "W. "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 5.51,
+          "alternatives": [
+            {
+              "confidence": 0.9961,
+              "word": "do"
+            }
+          ],
+          "end_time": 5.64
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "do",
+              5.51,
+              5.64
+            ],
+            [
+              "you",
+              5.64,
+              5.86
+            ],
+            [
+              "know",
+              5.86,
+              5.94
+            ],
+            [
+              "where",
+              5.94,
+              6.26
+            ],
+            [
+              "you",
+              6.7,
+              7.01
+            ],
+            [
+              "are",
+              7.01,
+              7.19
+            ],
+            [
+              "in",
+              7.19,
+              7.3
+            ],
+            [
+              "neon",
+              7.3,
+              7.89
+            ],
+            [
+              "why",
+              8.14,
+              8.7
+            ]
+          ],
+          "confidence": 0.503,
+          "transcript": "do you know where you are in neon why "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "yeah",
+              10.49,
+              10.59
+            ],
+            [
+              "that",
+              10.59,
+              10.86
+            ],
+            [
+              "was",
+              10.86,
+              10.98
+            ],
+            [
+              "the",
+              10.98,
+              11.04
+            ],
+            [
+              "problem",
+              11.04,
+              11.4
+            ],
+            [
+              "the",
+              11.4,
+              11.48
+            ],
+            [
+              "birds",
+              11.48,
+              11.86
+            ],
+            [
+              "at",
+              11.86,
+              12.16
+            ],
+            [
+              "the",
+              12.16,
+              12.23
+            ],
+            [
+              "greeting",
+              12.23,
+              12.57
+            ],
+            [
+              "of",
+              12.57,
+              12.72
+            ]
+          ],
+          "confidence": 0.581,
+          "transcript": "yeah that was the problem the birds at the greeting of "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 14.18,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "you"
+            }
+          ],
+          "end_time": 14.31
+        },
+        {
+          "start_time": 14.31,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "have"
+            }
+          ],
+          "end_time": 14.47
+        },
+        {
+          "start_time": 14.47,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "more"
+            }
+          ],
+          "end_time": 14.68
+        },
+        {
+          "start_time": 14.68,
+          "alternatives": [
+            {
+              "confidence": 0.996,
+              "word": "time"
+            }
+          ],
+          "end_time": 15.13
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "you",
+              14.18,
+              14.31
+            ],
+            [
+              "have",
+              14.31,
+              14.47
+            ],
+            [
+              "more",
+              14.47,
+              14.68
+            ],
+            [
+              "time",
+              14.68,
+              15.13
+            ]
+          ],
+          "confidence": 0.996,
+          "transcript": "you have more time "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I",
+              16.03,
+              16.06
+            ],
+            [
+              "tend",
+              16.06,
+              16.42
+            ],
+            [
+              "to",
+              16.45,
+              16.59
+            ],
+            [
+              "think",
+              16.59,
+              16.85
+            ]
+          ],
+          "confidence": 0.222,
+          "transcript": "I tend to think "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 17.33,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "I"
+            }
+          ],
+          "end_time": 17.51
+        },
+        {
+          "start_time": 17.51,
+          "alternatives": [
+            {
+              "confidence": 0.9525,
+              "word": "could"
+            }
+          ],
+          "end_time": 17.79
+        },
+        {
+          "start_time": 17.86,
+          "alternatives": [
+            {
+              "confidence": 0.9405,
+              "word": "play"
+            }
+          ],
+          "end_time": 18.12
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I",
+              17.33,
+              17.51
+            ],
+            [
+              "could",
+              17.51,
+              17.79
+            ],
+            [
+              "play",
+              17.86,
+              18.12
+            ],
+            [
+              "games",
+              18.12,
+              18.88
+            ]
+          ],
+          "confidence": 0.884,
+          "transcript": "I could play games "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0,
+  "speaker_labels": [
+    {
+      "from": 0.34,
+      "to": 0.41,
+      "speaker": 2,
+      "confidence": 0.427,
+      "final": false
+    },
+    {
+      "from": 0.41,
+      "to": 0.66,
+      "speaker": 2,
+      "confidence": 0.427,
+      "final": false
+    },
+    {
+      "from": 0.79,
+      "to": 1.02,
+      "speaker": 1,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 1.3,
+      "to": 1.39,
+      "speaker": 2,
+      "confidence": 0.425,
+      "final": false
+    },
+    {
+      "from": 1.39,
+      "to": 1.7,
+      "speaker": 2,
+      "confidence": 0.425,
+      "final": false
+    },
+    {
+      "from": 2.11,
+      "to": 2.29,
+      "speaker": 1,
+      "confidence": 0.434,
+      "final": false
+    },
+    {
+      "from": 2.29,
+      "to": 2.84,
+      "speaker": 1,
+      "confidence": 0.434,
+      "final": false
+    },
+    {
+      "from": 2.84,
+      "to": 2.99,
+      "speaker": 1,
+      "confidence": 0.434,
+      "final": false
+    },
+    {
+      "from": 3.83,
+      "to": 4.42,
+      "speaker": 1,
+      "confidence": 0.453,
+      "final": false
+    },
+    {
+      "from": 5.51,
+      "to": 5.64,
+      "speaker": 1,
+      "confidence": 0.421,
+      "final": false
+    },
+    {
+      "from": 5.64,
+      "to": 5.86,
+      "speaker": 1,
+      "confidence": 0.421,
+      "final": false
+    },
+    {
+      "from": 5.86,
+      "to": 5.94,
+      "speaker": 1,
+      "confidence": 0.421,
+      "final": false
+    },
+    {
+      "from": 5.94,
+      "to": 6.26,
+      "speaker": 1,
+      "confidence": 0.421,
+      "final": false
+    },
+    {
+      "from": 6.7,
+      "to": 7.01,
+      "speaker": 1,
+      "confidence": 0.498,
+      "final": false
+    },
+    {
+      "from": 7.01,
+      "to": 7.19,
+      "speaker": 1,
+      "confidence": 0.498,
+      "final": false
+    },
+    {
+      "from": 7.19,
+      "to": 7.3,
+      "speaker": 1,
+      "confidence": 0.498,
+      "final": false
+    },
+    {
+      "from": 7.3,
+      "to": 7.89,
+      "speaker": 1,
+      "confidence": 0.498,
+      "final": false
+    },
+    {
+      "from": 8.14,
+      "to": 8.7,
+      "speaker": 1,
+      "confidence": 0.359,
+      "final": false
+    },
+    {
+      "from": 10.49,
+      "to": 10.59,
+      "speaker": 0,
+      "confidence": 0.445,
+      "final": false
+    },
+    {
+      "from": 10.59,
+      "to": 10.86,
+      "speaker": 0,
+      "confidence": 0.445,
+      "final": false
+    },
+    {
+      "from": 10.86,
+      "to": 10.98,
+      "speaker": 0,
+      "confidence": 0.445,
+      "final": false
+    },
+    {
+      "from": 10.98,
+      "to": 11.04,
+      "speaker": 0,
+      "confidence": 0.445,
+      "final": false
+    },
+    {
+      "from": 11.04,
+      "to": 11.4,
+      "speaker": 0,
+      "confidence": 0.445,
+      "final": false
+    },
+    {
+      "from": 11.4,
+      "to": 11.48,
+      "speaker": 0,
+      "confidence": 0.445,
+      "final": false
+    },
+    {
+      "from": 11.48,
+      "to": 11.86,
+      "speaker": 0,
+      "confidence": 0.445,
+      "final": false
+    },
+    {
+      "from": 11.86,
+      "to": 12.16,
+      "speaker": 0,
+      "confidence": 0.445,
+      "final": false
+    },
+    {
+      "from": 12.16,
+      "to": 12.23,
+      "speaker": 0,
+      "confidence": 0.445,
+      "final": false
+    },
+    {
+      "from": 12.23,
+      "to": 12.57,
+      "speaker": 0,
+      "confidence": 0.445,
+      "final": false
+    },
+    {
+      "from": 12.57,
+      "to": 12.72,
+      "speaker": 0,
+      "confidence": 0.445,
+      "final": false
+    },
+    {
+      "from": 14.18,
+      "to": 14.31,
+      "speaker": 0,
+      "confidence": 0.601,
+      "final": false
+    },
+    {
+      "from": 14.31,
+      "to": 14.47,
+      "speaker": 0,
+      "confidence": 0.601,
+      "final": false
+    },
+    {
+      "from": 14.47,
+      "to": 14.68,
+      "speaker": 0,
+      "confidence": 0.601,
+      "final": false
+    },
+    {
+      "from": 14.68,
+      "to": 15.13,
+      "speaker": 0,
+      "confidence": 0.601,
+      "final": false
+    },
+    {
+      "from": 16.03,
+      "to": 16.06,
+      "speaker": 0,
+      "confidence": 0.519,
+      "final": false
+    },
+    {
+      "from": 16.06,
+      "to": 16.42,
+      "speaker": 0,
+      "confidence": 0.519,
+      "final": false
+    },
+    {
+      "from": 16.45,
+      "to": 16.59,
+      "speaker": 0,
+      "confidence": 0.604,
+      "final": false
+    },
+    {
+      "from": 16.59,
+      "to": 16.85,
+      "speaker": 0,
+      "confidence": 0.604,
+      "final": false
+    },
+    {
+      "from": 17.33,
+      "to": 17.51,
+      "speaker": 0,
+      "confidence": 0.445,
+      "final": false
+    },
+    {
+      "from": 17.51,
+      "to": 17.79,
+      "speaker": 0,
+      "confidence": 0.445,
+      "final": false
+    },
+    {
+      "from": 17.86,
+      "to": 18.12,
+      "speaker": 0,
+      "confidence": 0.473,
+      "final": false
+    },
+    {
+      "from": 18.12,
+      "to": 18.88,
+      "speaker": 0,
+      "confidence": 0.473,
+      "final": true
+    }
+  ],
+  "filename": "talk-5.mp3"
+}

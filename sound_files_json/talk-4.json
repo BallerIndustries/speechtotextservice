@@ -1,0 +1,521 @@
+{
+  "results": [
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "problem",
+              0.28,
+              0.64
+            ],
+            [
+              "pretty",
+              0.64,
+              1.04
+            ],
+            [
+              "is",
+              1.65,
+              1.99
+            ],
+            [
+              "pretty",
+              1.99,
+              2.25
+            ],
+            [
+              "bad",
+              2.25,
+              2.67
+            ],
+            [
+              "Leanna",
+              3.04,
+              4.52
+            ],
+            [
+              "Haapsalu",
+              4.57,
+              5.37
+            ],
+            [
+              "in",
+              5.63,
+              5.83
+            ],
+            [
+              "my",
+              5.83,
+              6.03
+            ],
+            [
+              "mind",
+              6.03,
+              6.48
+            ],
+            [
+              "like",
+              6.9,
+              7.29
+            ],
+            [
+              "get",
+              7.58,
+              7.79
+            ],
+            [
+              "me",
+              7.79,
+              8
+            ],
+            [
+              "boring",
+              8,
+              8.56
+            ]
+          ],
+          "confidence": 0.577,
+          "transcript": "problem pretty is pretty bad Leanna Haapsalu in my mind like get me boring "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "all",
+              9.4,
+              9.58
+            ],
+            [
+              "you",
+              9.58,
+              9.86
+            ],
+            [
+              "do",
+              10.14,
+              10.25
+            ],
+            [
+              "you",
+              10.25,
+              10.39
+            ],
+            [
+              "wish",
+              10.39,
+              10.61
+            ],
+            [
+              "you",
+              10.61,
+              10.7
+            ],
+            [
+              "were",
+              10.7,
+              10.9
+            ],
+            [
+              "over",
+              10.9,
+              11.15
+            ]
+          ],
+          "confidence": 0.309,
+          "transcript": "all you do you wish you were over "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "you",
+              14.06,
+              14.15
+            ],
+            [
+              "need",
+              14.15,
+              14.57
+            ],
+            [
+              "me",
+              14.57,
+              14.84
+            ]
+          ],
+          "confidence": 0.422,
+          "transcript": "you need me "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "like",
+              15.63,
+              15.87
+            ],
+            [
+              "a",
+              15.87,
+              15.98
+            ],
+            [
+              "song",
+              15.98,
+              16.48
+            ],
+            [
+              "or",
+              16.48,
+              17.02
+            ],
+            [
+              "and",
+              17.06,
+              17.34
+            ]
+          ],
+          "confidence": 0.419,
+          "transcript": "like a song or and "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 18.44,
+          "alternatives": [
+            {
+              "confidence": 0.9198,
+              "word": "so"
+            }
+          ],
+          "end_time": 18.64
+        },
+        {
+          "start_time": 18.64,
+          "alternatives": [
+            {
+              "confidence": 0.9142,
+              "word": "I"
+            }
+          ],
+          "end_time": 18.72
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "so",
+              18.44,
+              18.64
+            ],
+            [
+              "I",
+              18.64,
+              18.72
+            ],
+            [
+              "can",
+              18.72,
+              18.97
+            ],
+            [
+              "wait",
+              18.97,
+              19.25
+            ],
+            [
+              "for",
+              19.29,
+              19.45
+            ],
+            [
+              "race",
+              19.45,
+              19.75
+            ]
+          ],
+          "confidence": 0.506,
+          "transcript": "so I can wait for race "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0,
+  "speaker_labels": [
+    {
+      "from": 0.28,
+      "to": 0.64,
+      "speaker": 0,
+      "confidence": 0.451,
+      "final": false
+    },
+    {
+      "from": 0.64,
+      "to": 1.04,
+      "speaker": 0,
+      "confidence": 0.451,
+      "final": false
+    },
+    {
+      "from": 1.65,
+      "to": 1.99,
+      "speaker": 0,
+      "confidence": 0.488,
+      "final": false
+    },
+    {
+      "from": 1.99,
+      "to": 2.25,
+      "speaker": 0,
+      "confidence": 0.488,
+      "final": false
+    },
+    {
+      "from": 2.25,
+      "to": 2.67,
+      "speaker": 0,
+      "confidence": 0.488,
+      "final": false
+    },
+    {
+      "from": 3.04,
+      "to": 4.52,
+      "speaker": 2,
+      "confidence": 0.568,
+      "final": false
+    },
+    {
+      "from": 4.57,
+      "to": 5.37,
+      "speaker": 2,
+      "confidence": 0.525,
+      "final": false
+    },
+    {
+      "from": 5.63,
+      "to": 5.83,
+      "speaker": 0,
+      "confidence": 0.305,
+      "final": false
+    },
+    {
+      "from": 5.83,
+      "to": 6.03,
+      "speaker": 0,
+      "confidence": 0.305,
+      "final": false
+    },
+    {
+      "from": 6.03,
+      "to": 6.48,
+      "speaker": 0,
+      "confidence": 0.305,
+      "final": false
+    },
+    {
+      "from": 6.9,
+      "to": 7.29,
+      "speaker": 2,
+      "confidence": 0.403,
+      "final": false
+    },
+    {
+      "from": 7.58,
+      "to": 7.79,
+      "speaker": 2,
+      "confidence": 0.435,
+      "final": false
+    },
+    {
+      "from": 7.79,
+      "to": 8,
+      "speaker": 2,
+      "confidence": 0.435,
+      "final": false
+    },
+    {
+      "from": 8,
+      "to": 8.56,
+      "speaker": 2,
+      "confidence": 0.435,
+      "final": false
+    },
+    {
+      "from": 9.4,
+      "to": 9.58,
+      "speaker": 0,
+      "confidence": 0.556,
+      "final": false
+    },
+    {
+      "from": 9.58,
+      "to": 9.86,
+      "speaker": 0,
+      "confidence": 0.556,
+      "final": false
+    },
+    {
+      "from": 10.14,
+      "to": 10.25,
+      "speaker": 0,
+      "confidence": 0.551,
+      "final": false
+    },
+    {
+      "from": 10.25,
+      "to": 10.39,
+      "speaker": 0,
+      "confidence": 0.551,
+      "final": false
+    },
+    {
+      "from": 10.39,
+      "to": 10.61,
+      "speaker": 0,
+      "confidence": 0.551,
+      "final": false
+    },
+    {
+      "from": 10.61,
+      "to": 10.7,
+      "speaker": 0,
+      "confidence": 0.551,
+      "final": false
+    },
+    {
+      "from": 10.7,
+      "to": 10.9,
+      "speaker": 0,
+      "confidence": 0.551,
+      "final": false
+    },
+    {
+      "from": 10.9,
+      "to": 11.15,
+      "speaker": 0,
+      "confidence": 0.551,
+      "final": false
+    },
+    {
+      "from": 14.06,
+      "to": 14.15,
+      "speaker": 2,
+      "confidence": 0.591,
+      "final": false
+    },
+    {
+      "from": 14.15,
+      "to": 14.57,
+      "speaker": 2,
+      "confidence": 0.591,
+      "final": false
+    },
+    {
+      "from": 14.57,
+      "to": 14.84,
+      "speaker": 2,
+      "confidence": 0.591,
+      "final": false
+    },
+    {
+      "from": 15.63,
+      "to": 15.87,
+      "speaker": 2,
+      "confidence": 0.546,
+      "final": false
+    },
+    {
+      "from": 15.87,
+      "to": 15.98,
+      "speaker": 2,
+      "confidence": 0.546,
+      "final": false
+    },
+    {
+      "from": 15.98,
+      "to": 16.48,
+      "speaker": 2,
+      "confidence": 0.546,
+      "final": false
+    },
+    {
+      "from": 16.48,
+      "to": 17.02,
+      "speaker": 2,
+      "confidence": 0.546,
+      "final": false
+    },
+    {
+      "from": 17.06,
+      "to": 17.34,
+      "speaker": 0,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 18.44,
+      "to": 18.64,
+      "speaker": 2,
+      "confidence": 0.593,
+      "final": false
+    },
+    {
+      "from": 18.64,
+      "to": 18.72,
+      "speaker": 2,
+      "confidence": 0.593,
+      "final": false
+    },
+    {
+      "from": 18.72,
+      "to": 18.97,
+      "speaker": 2,
+      "confidence": 0.593,
+      "final": false
+    },
+    {
+      "from": 18.97,
+      "to": 19.25,
+      "speaker": 2,
+      "confidence": 0.593,
+      "final": false
+    },
+    {
+      "from": 19.29,
+      "to": 19.45,
+      "speaker": 2,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 19.45,
+      "to": 19.75,
+      "speaker": 2,
+      "confidence": 0.52,
+      "final": true
+    }
+  ],
+  "filename": "talk-4.mp3"
+}

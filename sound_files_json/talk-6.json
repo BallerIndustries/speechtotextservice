@@ -1,0 +1,756 @@
+{
+  "results": [
+    {
+      "word_alternatives": [
+        {
+          "start_time": 0.04,
+          "alternatives": [
+            {
+              "confidence": 0.9554,
+              "word": "did"
+            }
+          ],
+          "end_time": 0.4
+        },
+        {
+          "start_time": 1.71,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "and"
+            }
+          ],
+          "end_time": 1.82
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "did",
+              0.04,
+              0.4
+            ],
+            [
+              "I",
+              0.64,
+              0.76
+            ],
+            [
+              "used",
+              0.76,
+              0.96
+            ],
+            [
+              "to",
+              0.96,
+              1.03
+            ],
+            [
+              "play",
+              1.03,
+              1.21
+            ],
+            [
+              "cowboys",
+              1.21,
+              1.71
+            ],
+            [
+              "and",
+              1.71,
+              1.82
+            ],
+            [
+              "Indians",
+              1.82,
+              2.35
+            ]
+          ],
+          "confidence": 0.936,
+          "transcript": "did I used to play cowboys and Indians "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "well",
+              3.47,
+              3.83
+            ],
+            [
+              "do",
+              3.96,
+              4.09
+            ],
+            [
+              "you",
+              4.09,
+              4.36
+            ]
+          ],
+          "confidence": 0.378,
+          "transcript": "well do you "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 5.35,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "that's"
+            }
+          ],
+          "end_time": 5.58
+        },
+        {
+          "start_time": 5.58,
+          "alternatives": [
+            {
+              "confidence": 0.9202,
+              "word": "what"
+            }
+          ],
+          "end_time": 5.74
+        },
+        {
+          "start_time": 5.74,
+          "alternatives": [
+            {
+              "confidence": 0.9202,
+              "word": "I"
+            }
+          ],
+          "end_time": 5.78
+        },
+        {
+          "start_time": 5.78,
+          "alternatives": [
+            {
+              "confidence": 0.9966,
+              "word": "like"
+            }
+          ],
+          "end_time": 6.02
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "that's",
+              5.35,
+              5.58
+            ],
+            [
+              "what",
+              5.58,
+              5.74
+            ],
+            [
+              "I",
+              5.74,
+              5.78
+            ],
+            [
+              "like",
+              5.78,
+              6.02
+            ],
+            [
+              "about",
+              6.02,
+              6.26
+            ],
+            [
+              "the",
+              6.26,
+              6.35
+            ],
+            [
+              "new",
+              6.35,
+              6.69
+            ]
+          ],
+          "confidence": 0.732,
+          "transcript": "that's what I like about the new "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 7.57,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "I"
+            }
+          ],
+          "end_time": 7.67
+        },
+        {
+          "start_time": 7.67,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "could"
+            }
+          ],
+          "end_time": 7.85
+        },
+        {
+          "start_time": 7.85,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "use"
+            }
+          ],
+          "end_time": 8.06
+        },
+        {
+          "start_time": 8.06,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "my"
+            }
+          ],
+          "end_time": 8.2
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I",
+              7.57,
+              7.67
+            ],
+            [
+              "could",
+              7.67,
+              7.85
+            ],
+            [
+              "use",
+              7.85,
+              8.06
+            ],
+            [
+              "my",
+              8.06,
+              8.2
+            ],
+            [
+              "imagination",
+              8.2,
+              8.96
+            ],
+            [
+              "or",
+              8.96,
+              9.16
+            ]
+          ],
+          "confidence": 0.875,
+          "transcript": "I could use my imagination or "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "pack",
+              9.91,
+              10.19
+            ],
+            [
+              "sad",
+              10.19,
+              10.58
+            ],
+            [
+              "story",
+              10.58,
+              11.27
+            ]
+          ],
+          "confidence": 0.663,
+          "transcript": "pack sad story "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "thank",
+              11.96,
+              12.2
+            ],
+            [
+              "you",
+              12.2,
+              12.3
+            ],
+            [
+              "guys",
+              12.3,
+              12.54
+            ]
+          ],
+          "confidence": 0.1,
+          "transcript": "thank you guys "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 14.02,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "I"
+            }
+          ],
+          "end_time": 14.11
+        },
+        {
+          "start_time": 14.11,
+          "alternatives": [
+            {
+              "confidence": 0.936,
+              "word": "could"
+            }
+          ],
+          "end_time": 14.27
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I",
+              14.02,
+              14.11
+            ],
+            [
+              "could",
+              14.11,
+              14.27
+            ],
+            [
+              "be",
+              14.27,
+              14.41
+            ],
+            [
+              "an",
+              14.41,
+              14.59
+            ],
+            [
+              "unordered",
+              14.85,
+              15.29
+            ],
+            [
+              "cowboy",
+              15.29,
+              15.77
+            ]
+          ],
+          "confidence": 0.467,
+          "transcript": "I could be an unordered cowboy "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I'm",
+              16.59,
+              16.69
+            ],
+            [
+              "going",
+              16.69,
+              16.84
+            ],
+            [
+              "to",
+              16.84,
+              17.03
+            ],
+            [
+              "check",
+              17.03,
+              17.41
+            ]
+          ],
+          "confidence": 0.258,
+          "transcript": "I'm going to check "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "will",
+              18.58,
+              18.77
+            ],
+            [
+              "you",
+              18.77,
+              18.89
+            ],
+            [
+              "folded",
+              18.89,
+              19.44
+            ]
+          ],
+          "confidence": 0.266,
+          "transcript": "will you folded "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0,
+  "speaker_labels": [
+    {
+      "from": 0.04,
+      "to": 0.4,
+      "speaker": 2,
+      "confidence": 0.381,
+      "final": false
+    },
+    {
+      "from": 0.64,
+      "to": 0.76,
+      "speaker": 0,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 0.76,
+      "to": 0.96,
+      "speaker": 0,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 0.96,
+      "to": 1.03,
+      "speaker": 0,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 1.03,
+      "to": 1.21,
+      "speaker": 0,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 1.21,
+      "to": 1.71,
+      "speaker": 0,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 1.71,
+      "to": 1.82,
+      "speaker": 0,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 1.82,
+      "to": 2.35,
+      "speaker": 0,
+      "confidence": 0.47,
+      "final": false
+    },
+    {
+      "from": 3.47,
+      "to": 3.83,
+      "speaker": 1,
+      "confidence": 0.499,
+      "final": false
+    },
+    {
+      "from": 3.96,
+      "to": 4.09,
+      "speaker": 2,
+      "confidence": 0.479,
+      "final": false
+    },
+    {
+      "from": 4.09,
+      "to": 4.36,
+      "speaker": 2,
+      "confidence": 0.479,
+      "final": false
+    },
+    {
+      "from": 5.35,
+      "to": 5.58,
+      "speaker": 0,
+      "confidence": 0.327,
+      "final": false
+    },
+    {
+      "from": 5.58,
+      "to": 5.74,
+      "speaker": 0,
+      "confidence": 0.327,
+      "final": false
+    },
+    {
+      "from": 5.74,
+      "to": 5.78,
+      "speaker": 0,
+      "confidence": 0.327,
+      "final": false
+    },
+    {
+      "from": 5.78,
+      "to": 6.02,
+      "speaker": 0,
+      "confidence": 0.327,
+      "final": false
+    },
+    {
+      "from": 6.02,
+      "to": 6.26,
+      "speaker": 0,
+      "confidence": 0.327,
+      "final": false
+    },
+    {
+      "from": 6.26,
+      "to": 6.35,
+      "speaker": 0,
+      "confidence": 0.327,
+      "final": false
+    },
+    {
+      "from": 6.35,
+      "to": 6.69,
+      "speaker": 0,
+      "confidence": 0.327,
+      "final": false
+    },
+    {
+      "from": 7.57,
+      "to": 7.67,
+      "speaker": 2,
+      "confidence": 0.377,
+      "final": false
+    },
+    {
+      "from": 7.67,
+      "to": 7.85,
+      "speaker": 2,
+      "confidence": 0.377,
+      "final": false
+    },
+    {
+      "from": 7.85,
+      "to": 8.06,
+      "speaker": 2,
+      "confidence": 0.377,
+      "final": false
+    },
+    {
+      "from": 8.06,
+      "to": 8.2,
+      "speaker": 2,
+      "confidence": 0.377,
+      "final": false
+    },
+    {
+      "from": 8.2,
+      "to": 8.96,
+      "speaker": 2,
+      "confidence": 0.377,
+      "final": false
+    },
+    {
+      "from": 8.96,
+      "to": 9.16,
+      "speaker": 2,
+      "confidence": 0.377,
+      "final": false
+    },
+    {
+      "from": 9.91,
+      "to": 10.19,
+      "speaker": 1,
+      "confidence": 0.399,
+      "final": false
+    },
+    {
+      "from": 10.19,
+      "to": 10.58,
+      "speaker": 1,
+      "confidence": 0.399,
+      "final": false
+    },
+    {
+      "from": 10.58,
+      "to": 11.27,
+      "speaker": 1,
+      "confidence": 0.399,
+      "final": false
+    },
+    {
+      "from": 11.96,
+      "to": 12.2,
+      "speaker": 1,
+      "confidence": 0.473,
+      "final": false
+    },
+    {
+      "from": 12.2,
+      "to": 12.3,
+      "speaker": 1,
+      "confidence": 0.473,
+      "final": false
+    },
+    {
+      "from": 12.3,
+      "to": 12.54,
+      "speaker": 1,
+      "confidence": 0.473,
+      "final": false
+    },
+    {
+      "from": 14.02,
+      "to": 14.11,
+      "speaker": 2,
+      "confidence": 0.429,
+      "final": false
+    },
+    {
+      "from": 14.11,
+      "to": 14.27,
+      "speaker": 2,
+      "confidence": 0.429,
+      "final": false
+    },
+    {
+      "from": 14.27,
+      "to": 14.41,
+      "speaker": 2,
+      "confidence": 0.429,
+      "final": false
+    },
+    {
+      "from": 14.41,
+      "to": 14.59,
+      "speaker": 2,
+      "confidence": 0.429,
+      "final": false
+    },
+    {
+      "from": 14.85,
+      "to": 15.29,
+      "speaker": 0,
+      "confidence": 0.347,
+      "final": false
+    },
+    {
+      "from": 15.29,
+      "to": 15.77,
+      "speaker": 0,
+      "confidence": 0.347,
+      "final": false
+    },
+    {
+      "from": 16.59,
+      "to": 16.69,
+      "speaker": 2,
+      "confidence": 0.394,
+      "final": false
+    },
+    {
+      "from": 16.69,
+      "to": 16.84,
+      "speaker": 2,
+      "confidence": 0.394,
+      "final": false
+    },
+    {
+      "from": 16.84,
+      "to": 17.03,
+      "speaker": 2,
+      "confidence": 0.394,
+      "final": false
+    },
+    {
+      "from": 17.03,
+      "to": 17.41,
+      "speaker": 2,
+      "confidence": 0.394,
+      "final": false
+    },
+    {
+      "from": 18.58,
+      "to": 18.77,
+      "speaker": 0,
+      "confidence": 0.441,
+      "final": false
+    },
+    {
+      "from": 18.77,
+      "to": 18.89,
+      "speaker": 0,
+      "confidence": 0.441,
+      "final": false
+    },
+    {
+      "from": 18.89,
+      "to": 19.44,
+      "speaker": 0,
+      "confidence": 0.441,
+      "final": true
+    }
+  ],
+  "filename": "talk-6.mp3"
+}

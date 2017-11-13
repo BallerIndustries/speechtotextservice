@@ -1,0 +1,736 @@
+{
+  "results": [
+    {
+      "word_alternatives": [
+        {
+          "start_time": 0.06,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "well"
+            }
+          ],
+          "end_time": 0.38
+        },
+        {
+          "start_time": 0.38,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "you"
+            }
+          ],
+          "end_time": 0.6
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "well",
+              0.06,
+              0.38
+            ],
+            [
+              "you",
+              0.38,
+              0.6
+            ],
+            [
+              "get",
+              0.6,
+              0.87
+            ],
+            [
+              "you",
+              0.87,
+              1.08
+            ],
+            [
+              "hot",
+              1.08,
+              1.37
+            ],
+            [
+              "self",
+              1.37,
+              1.69
+            ],
+            [
+              "homework",
+              1.69,
+              2.75
+            ],
+            [
+              "it's",
+              3.38,
+              3.55
+            ],
+            [
+              "also",
+              3.55,
+              3.91
+            ],
+            [
+              "pretty",
+              3.91,
+              4.29
+            ],
+            [
+              "for",
+              4.29,
+              4.67
+            ],
+            [
+              "it",
+              4.84,
+              5.01
+            ]
+          ],
+          "confidence": 0.642,
+          "transcript": "well you get you hot self homework it's also pretty for it "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 14.07,
+          "alternatives": [
+            {
+              "confidence": 0.9921,
+              "word": "thing"
+            }
+          ],
+          "end_time": 14.24
+        },
+        {
+          "start_time": 14.24,
+          "alternatives": [
+            {
+              "confidence": 0.9921,
+              "word": "about"
+            }
+          ],
+          "end_time": 14.52
+        },
+        {
+          "start_time": 14.52,
+          "alternatives": [
+            {
+              "confidence": 0.9293,
+              "word": "being"
+            }
+          ],
+          "end_time": 14.77
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "we",
+              6.25,
+              6.4
+            ],
+            [
+              "didn't",
+              6.4,
+              6.88
+            ],
+            [
+              "even",
+              6.97,
+              7.39
+            ],
+            [
+              "need",
+              7.39,
+              7.67
+            ],
+            [
+              "all",
+              7.67,
+              7.93
+            ],
+            [
+              "right",
+              8.3,
+              8.56
+            ],
+            [
+              "carlike",
+              9.85,
+              10.32
+            ],
+            [
+              "demeanor",
+              10.32,
+              10.97
+            ],
+            [
+              "of",
+              10.97,
+              11.16
+            ],
+            [
+              "that",
+              11.46,
+              11.74
+            ],
+            [
+              "anger",
+              11.74,
+              12.2
+            ],
+            [
+              "to",
+              12.2,
+              12.37
+            ],
+            [
+              "prove",
+              12.58,
+              13.14
+            ],
+            [
+              "what",
+              13.14,
+              13.41
+            ],
+            [
+              "is",
+              13.41,
+              13.55
+            ],
+            [
+              "the",
+              13.55,
+              13.68
+            ],
+            [
+              "worst",
+              13.68,
+              14.07
+            ],
+            [
+              "thing",
+              14.07,
+              14.24
+            ],
+            [
+              "about",
+              14.24,
+              14.52
+            ],
+            [
+              "being",
+              14.52,
+              14.77
+            ],
+            [
+              "home",
+              14.77,
+              15.16
+            ]
+          ],
+          "confidence": 0.441,
+          "transcript": "we didn't even need all right carlike demeanor of that anger to prove what is the worst thing about being home "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 17.35,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "not"
+            }
+          ],
+          "end_time": 17.63
+        },
+        {
+          "start_time": 17.63,
+          "alternatives": [
+            {
+              "confidence": 0.9968,
+              "word": "being"
+            }
+          ],
+          "end_time": 17.81
+        },
+        {
+          "start_time": 17.81,
+          "alternatives": [
+            {
+              "confidence": 0.9968,
+              "word": "able"
+            }
+          ],
+          "end_time": 18.04
+        },
+        {
+          "start_time": 18.04,
+          "alternatives": [
+            {
+              "confidence": 0.9968,
+              "word": "to"
+            }
+          ],
+          "end_time": 18.17
+        },
+        {
+          "start_time": 18.17,
+          "alternatives": [
+            {
+              "confidence": 0.9968,
+              "word": "do"
+            }
+          ],
+          "end_time": 18.38
+        },
+        {
+          "start_time": 18.38,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "things"
+            }
+          ],
+          "end_time": 18.86
+        },
+        {
+          "start_time": 18.86,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "that"
+            }
+          ],
+          "end_time": 19.1
+        },
+        {
+          "start_time": 19.1,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "you"
+            }
+          ],
+          "end_time": 19.21
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "not",
+              17.35,
+              17.63
+            ],
+            [
+              "being",
+              17.63,
+              17.81
+            ],
+            [
+              "able",
+              17.81,
+              18.04
+            ],
+            [
+              "to",
+              18.04,
+              18.17
+            ],
+            [
+              "do",
+              18.17,
+              18.38
+            ],
+            [
+              "things",
+              18.38,
+              18.86
+            ],
+            [
+              "that",
+              18.86,
+              19.1
+            ],
+            [
+              "you",
+              19.1,
+              19.21
+            ],
+            [
+              "could",
+              19.21,
+              19.43
+            ],
+            [
+              "do",
+              19.43,
+              19.72
+            ],
+            [
+              "you",
+              19.75,
+              20.01
+            ],
+            [
+              "are",
+              20.01,
+              20.08
+            ],
+            [
+              "you",
+              20.08,
+              20.21
+            ]
+          ],
+          "confidence": 0.866,
+          "transcript": "not being able to do things that you could do you are you "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0,
+  "speaker_labels": [
+    {
+      "from": 0.06,
+      "to": 0.38,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 0.38,
+      "to": 0.6,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 0.6,
+      "to": 0.87,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 0.87,
+      "to": 1.08,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 1.08,
+      "to": 1.37,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 1.37,
+      "to": 1.69,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 1.69,
+      "to": 2.75,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 3.38,
+      "to": 3.55,
+      "speaker": 1,
+      "confidence": 0.491,
+      "final": false
+    },
+    {
+      "from": 3.55,
+      "to": 3.91,
+      "speaker": 1,
+      "confidence": 0.491,
+      "final": false
+    },
+    {
+      "from": 3.91,
+      "to": 4.29,
+      "speaker": 1,
+      "confidence": 0.491,
+      "final": false
+    },
+    {
+      "from": 4.29,
+      "to": 4.67,
+      "speaker": 1,
+      "confidence": 0.491,
+      "final": false
+    },
+    {
+      "from": 4.84,
+      "to": 5.01,
+      "speaker": 1,
+      "confidence": 0.364,
+      "final": false
+    },
+    {
+      "from": 6.25,
+      "to": 6.4,
+      "speaker": 0,
+      "confidence": 0.402,
+      "final": false
+    },
+    {
+      "from": 6.4,
+      "to": 6.88,
+      "speaker": 0,
+      "confidence": 0.402,
+      "final": false
+    },
+    {
+      "from": 6.97,
+      "to": 7.39,
+      "speaker": 0,
+      "confidence": 0.422,
+      "final": false
+    },
+    {
+      "from": 7.39,
+      "to": 7.67,
+      "speaker": 0,
+      "confidence": 0.422,
+      "final": false
+    },
+    {
+      "from": 7.67,
+      "to": 7.93,
+      "speaker": 0,
+      "confidence": 0.422,
+      "final": false
+    },
+    {
+      "from": 8.3,
+      "to": 8.56,
+      "speaker": 1,
+      "confidence": 0.447,
+      "final": false
+    },
+    {
+      "from": 8.82,
+      "to": 9.85,
+      "speaker": 1,
+      "confidence": 0.313,
+      "final": false
+    },
+    {
+      "from": 9.85,
+      "to": 10.32,
+      "speaker": 1,
+      "confidence": 0.313,
+      "final": false
+    },
+    {
+      "from": 10.32,
+      "to": 10.97,
+      "speaker": 1,
+      "confidence": 0.313,
+      "final": false
+    },
+    {
+      "from": 10.97,
+      "to": 11.16,
+      "speaker": 1,
+      "confidence": 0.313,
+      "final": false
+    },
+    {
+      "from": 11.46,
+      "to": 11.74,
+      "speaker": 0,
+      "confidence": 0.355,
+      "final": false
+    },
+    {
+      "from": 11.74,
+      "to": 12.2,
+      "speaker": 0,
+      "confidence": 0.355,
+      "final": false
+    },
+    {
+      "from": 12.2,
+      "to": 12.37,
+      "speaker": 0,
+      "confidence": 0.355,
+      "final": false
+    },
+    {
+      "from": 12.58,
+      "to": 13.14,
+      "speaker": 1,
+      "confidence": 0.281,
+      "final": false
+    },
+    {
+      "from": 13.14,
+      "to": 13.41,
+      "speaker": 1,
+      "confidence": 0.281,
+      "final": false
+    },
+    {
+      "from": 13.41,
+      "to": 13.55,
+      "speaker": 1,
+      "confidence": 0.281,
+      "final": false
+    },
+    {
+      "from": 13.55,
+      "to": 13.68,
+      "speaker": 1,
+      "confidence": 0.281,
+      "final": false
+    },
+    {
+      "from": 13.68,
+      "to": 14.07,
+      "speaker": 1,
+      "confidence": 0.281,
+      "final": false
+    },
+    {
+      "from": 14.07,
+      "to": 14.24,
+      "speaker": 1,
+      "confidence": 0.281,
+      "final": false
+    },
+    {
+      "from": 14.24,
+      "to": 14.52,
+      "speaker": 1,
+      "confidence": 0.281,
+      "final": false
+    },
+    {
+      "from": 14.52,
+      "to": 14.77,
+      "speaker": 1,
+      "confidence": 0.281,
+      "final": false
+    },
+    {
+      "from": 14.77,
+      "to": 15.16,
+      "speaker": 1,
+      "confidence": 0.281,
+      "final": false
+    },
+    {
+      "from": 17.35,
+      "to": 17.63,
+      "speaker": 2,
+      "confidence": 0.478,
+      "final": false
+    },
+    {
+      "from": 17.63,
+      "to": 17.81,
+      "speaker": 2,
+      "confidence": 0.478,
+      "final": false
+    },
+    {
+      "from": 17.81,
+      "to": 18.04,
+      "speaker": 2,
+      "confidence": 0.478,
+      "final": false
+    },
+    {
+      "from": 18.04,
+      "to": 18.17,
+      "speaker": 2,
+      "confidence": 0.478,
+      "final": false
+    },
+    {
+      "from": 18.17,
+      "to": 18.38,
+      "speaker": 2,
+      "confidence": 0.478,
+      "final": false
+    },
+    {
+      "from": 18.38,
+      "to": 18.86,
+      "speaker": 2,
+      "confidence": 0.478,
+      "final": false
+    },
+    {
+      "from": 18.86,
+      "to": 19.1,
+      "speaker": 2,
+      "confidence": 0.478,
+      "final": false
+    },
+    {
+      "from": 19.1,
+      "to": 19.21,
+      "speaker": 2,
+      "confidence": 0.478,
+      "final": false
+    },
+    {
+      "from": 19.21,
+      "to": 19.43,
+      "speaker": 2,
+      "confidence": 0.478,
+      "final": false
+    },
+    {
+      "from": 19.43,
+      "to": 19.72,
+      "speaker": 2,
+      "confidence": 0.478,
+      "final": false
+    },
+    {
+      "from": 19.75,
+      "to": 20.01,
+      "speaker": 2,
+      "confidence": 0.487,
+      "final": false
+    },
+    {
+      "from": 20.01,
+      "to": 20.08,
+      "speaker": 2,
+      "confidence": 0.487,
+      "final": false
+    },
+    {
+      "from": 20.08,
+      "to": 20.21,
+      "speaker": 2,
+      "confidence": 0.487,
+      "final": true
+    }
+  ],
+  "filename": "talk-2.mp3"
+}

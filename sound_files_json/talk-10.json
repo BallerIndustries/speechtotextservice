@@ -1,0 +1,820 @@
+{
+  "results": [
+    {
+      "word_alternatives": [
+        {
+          "start_time": 0.28,
+          "alternatives": [
+            {
+              "confidence": 0.9766,
+              "word": "do"
+            }
+          ],
+          "end_time": 0.43
+        },
+        {
+          "start_time": 0.43,
+          "alternatives": [
+            {
+              "confidence": 0.9766,
+              "word": "the"
+            }
+          ],
+          "end_time": 0.53
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "do",
+              0.28,
+              0.43
+            ],
+            [
+              "the",
+              0.43,
+              0.53
+            ],
+            [
+              "things",
+              0.53,
+              0.75
+            ],
+            [
+              "you",
+              0.75,
+              0.84
+            ],
+            [
+              "like",
+              0.84,
+              1.1
+            ],
+            [
+              "to",
+              1.1,
+              1.23
+            ],
+            [
+              "add",
+              1.23,
+              1.35
+            ],
+            [
+              "that",
+              1.35,
+              1.52
+            ],
+            [
+              "make",
+              1.52,
+              1.73
+            ],
+            [
+              "you",
+              1.73,
+              1.8
+            ],
+            [
+              "feel",
+              1.8,
+              2
+            ],
+            [
+              "good",
+              2.1,
+              2.41
+            ]
+          ],
+          "confidence": 0.791,
+          "transcript": "do the things you like to add that make you feel good "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "because",
+              3.45,
+              3.72
+            ],
+            [
+              "when",
+              3.72,
+              3.82
+            ],
+            [
+              "you're",
+              3.82,
+              3.93
+            ],
+            [
+              "happy",
+              3.93,
+              4.21
+            ],
+            [
+              "yourself",
+              4.21,
+              4.88
+            ],
+            [
+              "everybody",
+              5.14,
+              5.61
+            ],
+            [
+              "else",
+              5.61,
+              5.84
+            ],
+            [
+              "is",
+              5.84,
+              5.94
+            ],
+            [
+              "happy",
+              5.94,
+              6.26
+            ]
+          ],
+          "confidence": 0.63,
+          "transcript": "because when you're happy yourself everybody else is happy "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "Joan",
+              7.86,
+              8.23
+            ],
+            [
+              "Joan",
+              8.23,
+              8.53
+            ],
+            [
+              "Baez",
+              8.53,
+              8.8
+            ],
+            [
+              "very",
+              8.8,
+              9.16
+            ],
+            [
+              "does",
+              9.63,
+              9.99
+            ]
+          ],
+          "confidence": 0.195,
+          "transcript": "Joan Joan Baez very does "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "to",
+              10.68,
+              10.91
+            ],
+            [
+              "like",
+              10.91,
+              11.43
+            ],
+            [
+              "act",
+              11.64,
+              12.07
+            ]
+          ],
+          "confidence": 0.383,
+          "transcript": "to like act "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "yeah",
+              13.91,
+              14.09
+            ]
+          ],
+          "confidence": 0.185,
+          "transcript": "yeah "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "you",
+              16.63,
+              16.73
+            ],
+            [
+              "get",
+              16.73,
+              16.92
+            ],
+            [
+              "people",
+              16.92,
+              17.26
+            ],
+            [
+              "I",
+              17.26,
+              17.4
+            ],
+            [
+              "know",
+              17.4,
+              17.65
+            ]
+          ],
+          "confidence": 0.763,
+          "transcript": "you get people I know "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "collect",
+              17.87,
+              18.33
+            ],
+            [
+              "my",
+              18.33,
+              18.5
+            ]
+          ],
+          "confidence": 0.292,
+          "transcript": "collect my "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "for",
+              19.56,
+              19.88
+            ]
+          ],
+          "confidence": 0.204,
+          "transcript": "for "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 20.4,
+          "alternatives": [
+            {
+              "confidence": 0.9377,
+              "word": "whenever"
+            }
+          ],
+          "end_time": 20.79
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "whenever",
+              20.4,
+              20.79
+            ],
+            [
+              "he",
+              20.79,
+              20.91
+            ],
+            [
+              "gets",
+              20.91,
+              21.22
+            ],
+            [
+              "hurt",
+              21.47,
+              21.75
+            ],
+            [
+              "I",
+              21.75,
+              21.95
+            ],
+            [
+              "hope",
+              21.95,
+              22.28
+            ]
+          ],
+          "confidence": 0.666,
+          "transcript": "whenever he gets hurt I hope "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "that's",
+              26.03,
+              26.21
+            ],
+            [
+              "good",
+              26.21,
+              26.39
+            ]
+          ],
+          "confidence": 0.596,
+          "transcript": "that's good "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "vice",
+              26.52,
+              27.02
+            ]
+          ],
+          "confidence": 0.385,
+          "transcript": "vice "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              27.43,
+              27.86
+            ],
+            [
+              "it",
+              27.86,
+              28.04
+            ],
+            [
+              "and",
+              28.34,
+              28.76
+            ],
+            [
+              "be",
+              29.07,
+              29.37
+            ],
+            [
+              "here",
+              29.41,
+              29.61
+            ],
+            [
+              "so",
+              29.61,
+              29.75
+            ]
+          ],
+          "confidence": 0.71,
+          "transcript": "and it and be here so "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0,
+  "speaker_labels": [
+    {
+      "from": 0.28,
+      "to": 0.43,
+      "speaker": 0,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 0.43,
+      "to": 0.53,
+      "speaker": 0,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 0.53,
+      "to": 0.75,
+      "speaker": 0,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 0.75,
+      "to": 0.84,
+      "speaker": 0,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 0.84,
+      "to": 1.1,
+      "speaker": 0,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 1.1,
+      "to": 1.23,
+      "speaker": 0,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 1.23,
+      "to": 1.35,
+      "speaker": 0,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 1.35,
+      "to": 1.52,
+      "speaker": 0,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 1.52,
+      "to": 1.73,
+      "speaker": 0,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 1.73,
+      "to": 1.8,
+      "speaker": 0,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 1.8,
+      "to": 2,
+      "speaker": 0,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 2.1,
+      "to": 2.41,
+      "speaker": 0,
+      "confidence": 0.488,
+      "final": false
+    },
+    {
+      "from": 3.45,
+      "to": 3.72,
+      "speaker": 0,
+      "confidence": 0.529,
+      "final": false
+    },
+    {
+      "from": 3.72,
+      "to": 3.82,
+      "speaker": 0,
+      "confidence": 0.529,
+      "final": false
+    },
+    {
+      "from": 3.82,
+      "to": 3.93,
+      "speaker": 0,
+      "confidence": 0.529,
+      "final": false
+    },
+    {
+      "from": 3.93,
+      "to": 4.21,
+      "speaker": 0,
+      "confidence": 0.529,
+      "final": false
+    },
+    {
+      "from": 4.21,
+      "to": 4.88,
+      "speaker": 0,
+      "confidence": 0.529,
+      "final": false
+    },
+    {
+      "from": 5.14,
+      "to": 5.61,
+      "speaker": 0,
+      "confidence": 0.516,
+      "final": false
+    },
+    {
+      "from": 5.61,
+      "to": 5.84,
+      "speaker": 0,
+      "confidence": 0.516,
+      "final": false
+    },
+    {
+      "from": 5.84,
+      "to": 5.94,
+      "speaker": 0,
+      "confidence": 0.516,
+      "final": false
+    },
+    {
+      "from": 5.94,
+      "to": 6.26,
+      "speaker": 0,
+      "confidence": 0.516,
+      "final": false
+    },
+    {
+      "from": 7.86,
+      "to": 8.23,
+      "speaker": 0,
+      "confidence": 0.544,
+      "final": false
+    },
+    {
+      "from": 8.23,
+      "to": 8.53,
+      "speaker": 0,
+      "confidence": 0.544,
+      "final": false
+    },
+    {
+      "from": 8.53,
+      "to": 8.8,
+      "speaker": 0,
+      "confidence": 0.544,
+      "final": false
+    },
+    {
+      "from": 8.8,
+      "to": 9.16,
+      "speaker": 0,
+      "confidence": 0.544,
+      "final": false
+    },
+    {
+      "from": 9.63,
+      "to": 9.99,
+      "speaker": 0,
+      "confidence": 0.446,
+      "final": false
+    },
+    {
+      "from": 10.68,
+      "to": 10.91,
+      "speaker": 0,
+      "confidence": 0.428,
+      "final": false
+    },
+    {
+      "from": 10.91,
+      "to": 11.43,
+      "speaker": 0,
+      "confidence": 0.428,
+      "final": false
+    },
+    {
+      "from": 11.64,
+      "to": 12.07,
+      "speaker": 0,
+      "confidence": 0.437,
+      "final": false
+    },
+    {
+      "from": 13.91,
+      "to": 14.09,
+      "speaker": 2,
+      "confidence": 0.456,
+      "final": false
+    },
+    {
+      "from": 16.63,
+      "to": 16.73,
+      "speaker": 2,
+      "confidence": 0.462,
+      "final": false
+    },
+    {
+      "from": 16.73,
+      "to": 16.92,
+      "speaker": 2,
+      "confidence": 0.462,
+      "final": false
+    },
+    {
+      "from": 16.92,
+      "to": 17.26,
+      "speaker": 2,
+      "confidence": 0.462,
+      "final": false
+    },
+    {
+      "from": 17.26,
+      "to": 17.4,
+      "speaker": 2,
+      "confidence": 0.462,
+      "final": false
+    },
+    {
+      "from": 17.4,
+      "to": 17.65,
+      "speaker": 2,
+      "confidence": 0.462,
+      "final": false
+    },
+    {
+      "from": 17.87,
+      "to": 18.33,
+      "speaker": 2,
+      "confidence": 0.477,
+      "final": false
+    },
+    {
+      "from": 18.33,
+      "to": 18.5,
+      "speaker": 2,
+      "confidence": 0.477,
+      "final": false
+    },
+    {
+      "from": 19.56,
+      "to": 19.88,
+      "speaker": 2,
+      "confidence": 0.505,
+      "final": false
+    },
+    {
+      "from": 20.4,
+      "to": 20.79,
+      "speaker": 2,
+      "confidence": 0.61,
+      "final": false
+    },
+    {
+      "from": 20.79,
+      "to": 20.91,
+      "speaker": 2,
+      "confidence": 0.61,
+      "final": false
+    },
+    {
+      "from": 20.91,
+      "to": 21.22,
+      "speaker": 2,
+      "confidence": 0.61,
+      "final": false
+    },
+    {
+      "from": 21.47,
+      "to": 21.75,
+      "speaker": 2,
+      "confidence": 0.633,
+      "final": false
+    },
+    {
+      "from": 21.75,
+      "to": 21.95,
+      "speaker": 2,
+      "confidence": 0.633,
+      "final": false
+    },
+    {
+      "from": 21.95,
+      "to": 22.28,
+      "speaker": 2,
+      "confidence": 0.633,
+      "final": false
+    },
+    {
+      "from": 26.03,
+      "to": 26.21,
+      "speaker": 2,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 26.21,
+      "to": 26.39,
+      "speaker": 2,
+      "confidence": 0.43,
+      "final": false
+    },
+    {
+      "from": 26.52,
+      "to": 27.02,
+      "speaker": 2,
+      "confidence": 0.506,
+      "final": false
+    },
+    {
+      "from": 27.43,
+      "to": 27.86,
+      "speaker": 2,
+      "confidence": 0.489,
+      "final": false
+    },
+    {
+      "from": 27.86,
+      "to": 28.04,
+      "speaker": 2,
+      "confidence": 0.489,
+      "final": false
+    },
+    {
+      "from": 28.34,
+      "to": 28.76,
+      "speaker": 2,
+      "confidence": 0.312,
+      "final": false
+    },
+    {
+      "from": 29.07,
+      "to": 29.37,
+      "speaker": 2,
+      "confidence": 0.451,
+      "final": false
+    },
+    {
+      "from": 29.41,
+      "to": 29.61,
+      "speaker": 2,
+      "confidence": 0.448,
+      "final": false
+    },
+    {
+      "from": 29.61,
+      "to": 29.75,
+      "speaker": 2,
+      "confidence": 0.448,
+      "final": true
+    }
+  ],
+  "filename": "talk-10.mp3"
+}

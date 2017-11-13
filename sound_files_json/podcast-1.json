@@ -1,0 +1,716 @@
+{
+  "results": [
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "cost",
+              0.79,
+              1.14
+            ]
+          ],
+          "confidence": 0.236,
+          "transcript": "cost "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 2.31,
+          "alternatives": [
+            {
+              "confidence": 0.9786,
+              "word": "you"
+            }
+          ],
+          "end_time": 2.55
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "you",
+              2.31,
+              2.55
+            ],
+            [
+              "can",
+              2.55,
+              2.78
+            ]
+          ],
+          "confidence": 0.775,
+          "transcript": "you can "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 4.08,
+          "alternatives": [
+            {
+              "confidence": 0.9988,
+              "word": "so"
+            }
+          ],
+          "end_time": 4.77
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "so",
+              4.08,
+              4.77
+            ]
+          ],
+          "confidence": 0.997,
+          "transcript": "so "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 5.75,
+          "alternatives": [
+            {
+              "confidence": 0.9561,
+              "word": "not"
+            }
+          ],
+          "end_time": 6.02
+        },
+        {
+          "start_time": 6.02,
+          "alternatives": [
+            {
+              "confidence": 0.9561,
+              "word": "to"
+            }
+          ],
+          "end_time": 6.18
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "not",
+              5.75,
+              6.02
+            ],
+            [
+              "to",
+              6.02,
+              6.18
+            ],
+            [
+              "sound",
+              6.18,
+              6.55
+            ]
+          ],
+          "confidence": 0.826,
+          "transcript": "not to sound "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I'm",
+              7.21,
+              7.43
+            ]
+          ],
+          "confidence": 0.128,
+          "transcript": "I'm "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 7.78,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "I"
+            }
+          ],
+          "end_time": 7.97
+        },
+        {
+          "start_time": 7.97,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "just"
+            }
+          ],
+          "end_time": 8.19
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I",
+              7.78,
+              7.97
+            ],
+            [
+              "just",
+              7.97,
+              8.19
+            ],
+            [
+              "kinda",
+              8.19,
+              8.43
+            ],
+            [
+              "so",
+              8.43,
+              8.66
+            ],
+            [
+              "I",
+              8.66,
+              8.77
+            ],
+            [
+              "kind",
+              8.77,
+              9.1
+            ],
+            [
+              "of",
+              9.1,
+              9.17
+            ],
+            [
+              "comes",
+              9.17,
+              9.61
+            ]
+          ],
+          "confidence": 0.46,
+          "transcript": "I just kinda so I kind of comes "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "spend",
+              10.58,
+              11.04
+            ]
+          ],
+          "confidence": 0.479,
+          "transcript": "spend "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "in",
+              11.64,
+              11.85
+            ],
+            [
+              "trying",
+              12.53,
+              13.09
+            ],
+            [
+              "to",
+              13.09,
+              13.29
+            ],
+            [
+              "look",
+              13.29,
+              13.5
+            ],
+            [
+              "for",
+              13.5,
+              13.74
+            ],
+            [
+              "a",
+              13.74,
+              13.81
+            ],
+            [
+              "job",
+              13.81,
+              14
+            ],
+            [
+              "at",
+              14,
+              14.15
+            ],
+            [
+              "least",
+              14.15,
+              14.52
+            ]
+          ],
+          "confidence": 0.607,
+          "transcript": "in trying to look for a job at least "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 17.08,
+          "alternatives": [
+            {
+              "confidence": 0.9461,
+              "word": "say"
+            }
+          ],
+          "end_time": 17.27
+        },
+        {
+          "start_time": 17.27,
+          "alternatives": [
+            {
+              "confidence": 0.9979,
+              "word": "about"
+            }
+          ],
+          "end_time": 17.52
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              14.91,
+              15.03
+            ],
+            [
+              "I",
+              15.03,
+              15.09
+            ],
+            [
+              "think",
+              15.09,
+              15.39
+            ],
+            [
+              "about",
+              15.39,
+              15.66
+            ],
+            [
+              "some",
+              15.66,
+              15.8
+            ],
+            [
+              "advice",
+              15.8,
+              16.14
+            ],
+            [
+              "to",
+              16.14,
+              16.25
+            ],
+            [
+              "give",
+              16.25,
+              16.43
+            ],
+            [
+              "I",
+              16.43,
+              16.52
+            ],
+            [
+              "have",
+              16.52,
+              16.71
+            ],
+            [
+              "things",
+              16.71,
+              16.95
+            ],
+            [
+              "to",
+              16.95,
+              17.08
+            ],
+            [
+              "say",
+              17.08,
+              17.27
+            ],
+            [
+              "about",
+              17.27,
+              17.52
+            ]
+          ],
+          "confidence": 0.735,
+          "transcript": "and I think about some advice to give I have things to say about "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 18.19,
+          "alternatives": [
+            {
+              "confidence": 0.9886,
+              "word": "Sir"
+            }
+          ],
+          "end_time": 18.71
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "Sir",
+              18.19,
+              18.71
+            ]
+          ],
+          "confidence": 0.985,
+          "transcript": "Sir "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0,
+  "speaker_labels": [
+    {
+      "from": 0.79,
+      "to": 1.14,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 2.31,
+      "to": 2.55,
+      "speaker": 0,
+      "confidence": 0.413,
+      "final": false
+    },
+    {
+      "from": 2.55,
+      "to": 2.78,
+      "speaker": 0,
+      "confidence": 0.413,
+      "final": false
+    },
+    {
+      "from": 4.08,
+      "to": 4.77,
+      "speaker": 2,
+      "confidence": 0.474,
+      "final": false
+    },
+    {
+      "from": 5.75,
+      "to": 6.02,
+      "speaker": 2,
+      "confidence": 0.479,
+      "final": false
+    },
+    {
+      "from": 6.02,
+      "to": 6.18,
+      "speaker": 2,
+      "confidence": 0.479,
+      "final": false
+    },
+    {
+      "from": 6.18,
+      "to": 6.55,
+      "speaker": 2,
+      "confidence": 0.479,
+      "final": false
+    },
+    {
+      "from": 7.21,
+      "to": 7.43,
+      "speaker": 0,
+      "confidence": 0.469,
+      "final": false
+    },
+    {
+      "from": 7.78,
+      "to": 7.97,
+      "speaker": 0,
+      "confidence": 0.394,
+      "final": false
+    },
+    {
+      "from": 7.97,
+      "to": 8.19,
+      "speaker": 0,
+      "confidence": 0.394,
+      "final": false
+    },
+    {
+      "from": 8.19,
+      "to": 8.43,
+      "speaker": 0,
+      "confidence": 0.394,
+      "final": false
+    },
+    {
+      "from": 8.43,
+      "to": 8.66,
+      "speaker": 0,
+      "confidence": 0.394,
+      "final": false
+    },
+    {
+      "from": 8.66,
+      "to": 8.77,
+      "speaker": 0,
+      "confidence": 0.394,
+      "final": false
+    },
+    {
+      "from": 8.77,
+      "to": 9.1,
+      "speaker": 0,
+      "confidence": 0.394,
+      "final": false
+    },
+    {
+      "from": 9.1,
+      "to": 9.17,
+      "speaker": 0,
+      "confidence": 0.394,
+      "final": false
+    },
+    {
+      "from": 9.17,
+      "to": 9.61,
+      "speaker": 0,
+      "confidence": 0.394,
+      "final": false
+    },
+    {
+      "from": 10.58,
+      "to": 11.04,
+      "speaker": 0,
+      "confidence": 0.391,
+      "final": false
+    },
+    {
+      "from": 11.64,
+      "to": 11.85,
+      "speaker": 2,
+      "confidence": 0.489,
+      "final": false
+    },
+    {
+      "from": 12.53,
+      "to": 13.09,
+      "speaker": 0,
+      "confidence": 0.482,
+      "final": false
+    },
+    {
+      "from": 13.09,
+      "to": 13.29,
+      "speaker": 0,
+      "confidence": 0.482,
+      "final": false
+    },
+    {
+      "from": 13.29,
+      "to": 13.5,
+      "speaker": 0,
+      "confidence": 0.482,
+      "final": false
+    },
+    {
+      "from": 13.5,
+      "to": 13.74,
+      "speaker": 0,
+      "confidence": 0.482,
+      "final": false
+    },
+    {
+      "from": 13.74,
+      "to": 13.81,
+      "speaker": 0,
+      "confidence": 0.482,
+      "final": false
+    },
+    {
+      "from": 13.81,
+      "to": 14,
+      "speaker": 0,
+      "confidence": 0.482,
+      "final": false
+    },
+    {
+      "from": 14,
+      "to": 14.15,
+      "speaker": 0,
+      "confidence": 0.482,
+      "final": false
+    },
+    {
+      "from": 14.15,
+      "to": 14.52,
+      "speaker": 0,
+      "confidence": 0.482,
+      "final": false
+    },
+    {
+      "from": 14.91,
+      "to": 15.03,
+      "speaker": 0,
+      "confidence": 0.446,
+      "final": false
+    },
+    {
+      "from": 15.03,
+      "to": 15.09,
+      "speaker": 0,
+      "confidence": 0.446,
+      "final": false
+    },
+    {
+      "from": 15.09,
+      "to": 15.39,
+      "speaker": 0,
+      "confidence": 0.446,
+      "final": false
+    },
+    {
+      "from": 15.39,
+      "to": 15.66,
+      "speaker": 0,
+      "confidence": 0.446,
+      "final": false
+    },
+    {
+      "from": 15.66,
+      "to": 15.8,
+      "speaker": 0,
+      "confidence": 0.446,
+      "final": false
+    },
+    {
+      "from": 15.8,
+      "to": 16.14,
+      "speaker": 0,
+      "confidence": 0.446,
+      "final": false
+    },
+    {
+      "from": 16.14,
+      "to": 16.25,
+      "speaker": 0,
+      "confidence": 0.446,
+      "final": false
+    },
+    {
+      "from": 16.25,
+      "to": 16.43,
+      "speaker": 0,
+      "confidence": 0.446,
+      "final": false
+    },
+    {
+      "from": 16.43,
+      "to": 16.52,
+      "speaker": 0,
+      "confidence": 0.446,
+      "final": false
+    },
+    {
+      "from": 16.52,
+      "to": 16.71,
+      "speaker": 0,
+      "confidence": 0.446,
+      "final": false
+    },
+    {
+      "from": 16.71,
+      "to": 16.95,
+      "speaker": 0,
+      "confidence": 0.446,
+      "final": false
+    },
+    {
+      "from": 16.95,
+      "to": 17.08,
+      "speaker": 0,
+      "confidence": 0.446,
+      "final": false
+    },
+    {
+      "from": 17.08,
+      "to": 17.27,
+      "speaker": 0,
+      "confidence": 0.446,
+      "final": false
+    },
+    {
+      "from": 17.27,
+      "to": 17.52,
+      "speaker": 0,
+      "confidence": 0.446,
+      "final": false
+    },
+    {
+      "from": 18.19,
+      "to": 18.71,
+      "speaker": 2,
+      "confidence": 0.585,
+      "final": true
+    }
+  ],
+  "filename": "podcast-1.mp3"
+}

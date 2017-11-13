@@ -1,0 +1,644 @@
+{
+  "results": [
+    {
+      "word_alternatives": [
+        {
+          "start_time": 16.92,
+          "alternatives": [
+            {
+              "confidence": 0.9796,
+              "word": "hello"
+            }
+          ],
+          "end_time": 17.39
+        },
+        {
+          "start_time": 17.39,
+          "alternatives": [
+            {
+              "confidence": 0.9794,
+              "word": "and"
+            }
+          ],
+          "end_time": 17.51
+        },
+        {
+          "start_time": 17.51,
+          "alternatives": [
+            {
+              "confidence": 0.9717,
+              "word": "welcome"
+            }
+          ],
+          "end_time": 17.85
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "hello",
+              16.92,
+              17.39
+            ],
+            [
+              "and",
+              17.39,
+              17.51
+            ],
+            [
+              "welcome",
+              17.51,
+              17.85
+            ],
+            [
+              "to",
+              17.85,
+              18.02
+            ],
+            [
+              "Las",
+              18.02,
+              18.27
+            ],
+            [
+              "Vegas",
+              18.27,
+              18.57
+            ],
+            [
+              "so",
+              18.57,
+              18.91
+            ],
+            [
+              "I",
+              19.02,
+              19.18
+            ],
+            [
+              "am",
+              19.18,
+              19.26
+            ],
+            [
+              "your",
+              19.26,
+              19.44
+            ],
+            [
+              "host",
+              19.44,
+              19.87
+            ],
+            [
+              "block",
+              19.98,
+              20.45
+            ],
+            [
+              "I",
+              20.94,
+              21.28
+            ],
+            [
+              "today",
+              21.56,
+              21.84
+            ],
+            [
+              "are",
+              21.84,
+              21.91
+            ],
+            [
+              "going",
+              21.91,
+              22.04
+            ],
+            [
+              "to",
+              22.04,
+              22.1
+            ],
+            [
+              "be",
+              22.1,
+              22.18
+            ],
+            [
+              "talking",
+              22.18,
+              22.48
+            ],
+            [
+              "about",
+              22.48,
+              22.77
+            ],
+            [
+              "jobs",
+              22.77,
+              23.09
+            ],
+            [
+              "right",
+              23.09,
+              23.47
+            ]
+          ],
+          "confidence": 0.655,
+          "transcript": "hello and welcome to Las Vegas so I am your host block I today are going to be talking about jobs right "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              24.46,
+              24.88
+            ]
+          ],
+          "confidence": 0.172,
+          "transcript": "and "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 25.45,
+          "alternatives": [
+            {
+              "confidence": 0.992,
+              "word": "I"
+            }
+          ],
+          "end_time": 25.66
+        },
+        {
+          "start_time": 26.47,
+          "alternatives": [
+            {
+              "confidence": 0.9912,
+              "word": "time"
+            }
+          ],
+          "end_time": 26.82
+        },
+        {
+          "start_time": 26.82,
+          "alternatives": [
+            {
+              "confidence": 0.9911,
+              "word": "looking"
+            }
+          ],
+          "end_time": 27.15
+        },
+        {
+          "start_time": 27.15,
+          "alternatives": [
+            {
+              "confidence": 0.9614,
+              "word": "for"
+            }
+          ],
+          "end_time": 27.28
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I",
+              25.45,
+              25.66
+            ],
+            [
+              "spent",
+              25.66,
+              26.08
+            ],
+            [
+              "a",
+              26.08,
+              26.17
+            ],
+            [
+              "lot",
+              26.17,
+              26.38
+            ],
+            [
+              "of",
+              26.38,
+              26.47
+            ],
+            [
+              "time",
+              26.47,
+              26.82
+            ],
+            [
+              "looking",
+              26.82,
+              27.15
+            ],
+            [
+              "for",
+              27.15,
+              27.28
+            ],
+            [
+              "jobs",
+              27.28,
+              27.91
+            ]
+          ],
+          "confidence": 0.895,
+          "transcript": "I spent a lot of time looking for jobs "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I",
+              28.68,
+              29.01
+            ],
+            [
+              "I",
+              29.13,
+              29.21
+            ],
+            [
+              "spent",
+              29.21,
+              29.47
+            ],
+            [
+              "a",
+              29.47,
+              29.55
+            ],
+            [
+              "lot",
+              29.55,
+              29.7
+            ],
+            [
+              "of",
+              29.7,
+              29.76
+            ],
+            [
+              "time",
+              29.76,
+              30
+            ],
+            [
+              "in",
+              30,
+              30.18
+            ],
+            [
+              "them",
+              30.18,
+              30.4
+            ],
+            [
+              "to",
+              30.4,
+              30.7
+            ],
+            [
+              "Sami",
+              30.7,
+              31.24
+            ]
+          ],
+          "confidence": 0.62,
+          "transcript": "I I spent a lot of time in them to Sami "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0,
+  "speaker_labels": [
+    {
+      "from": 16.92,
+      "to": 17.39,
+      "speaker": 1,
+      "confidence": 0.509,
+      "final": false
+    },
+    {
+      "from": 17.39,
+      "to": 17.51,
+      "speaker": 1,
+      "confidence": 0.509,
+      "final": false
+    },
+    {
+      "from": 17.51,
+      "to": 17.85,
+      "speaker": 1,
+      "confidence": 0.509,
+      "final": false
+    },
+    {
+      "from": 17.85,
+      "to": 18.02,
+      "speaker": 1,
+      "confidence": 0.509,
+      "final": false
+    },
+    {
+      "from": 18.02,
+      "to": 18.27,
+      "speaker": 1,
+      "confidence": 0.509,
+      "final": false
+    },
+    {
+      "from": 18.27,
+      "to": 18.57,
+      "speaker": 1,
+      "confidence": 0.509,
+      "final": false
+    },
+    {
+      "from": 18.57,
+      "to": 18.91,
+      "speaker": 1,
+      "confidence": 0.509,
+      "final": false
+    },
+    {
+      "from": 19.02,
+      "to": 19.18,
+      "speaker": 1,
+      "confidence": 0.558,
+      "final": false
+    },
+    {
+      "from": 19.18,
+      "to": 19.26,
+      "speaker": 1,
+      "confidence": 0.558,
+      "final": false
+    },
+    {
+      "from": 19.26,
+      "to": 19.44,
+      "speaker": 1,
+      "confidence": 0.558,
+      "final": false
+    },
+    {
+      "from": 19.44,
+      "to": 19.87,
+      "speaker": 1,
+      "confidence": 0.558,
+      "final": false
+    },
+    {
+      "from": 19.98,
+      "to": 20.45,
+      "speaker": 1,
+      "confidence": 0.522,
+      "final": false
+    },
+    {
+      "from": 20.94,
+      "to": 21.28,
+      "speaker": 1,
+      "confidence": 0.46,
+      "final": false
+    },
+    {
+      "from": 21.56,
+      "to": 21.84,
+      "speaker": 1,
+      "confidence": 0.472,
+      "final": false
+    },
+    {
+      "from": 21.84,
+      "to": 21.91,
+      "speaker": 1,
+      "confidence": 0.472,
+      "final": false
+    },
+    {
+      "from": 21.91,
+      "to": 22.04,
+      "speaker": 1,
+      "confidence": 0.472,
+      "final": false
+    },
+    {
+      "from": 22.04,
+      "to": 22.1,
+      "speaker": 1,
+      "confidence": 0.472,
+      "final": false
+    },
+    {
+      "from": 22.1,
+      "to": 22.18,
+      "speaker": 1,
+      "confidence": 0.472,
+      "final": false
+    },
+    {
+      "from": 22.18,
+      "to": 22.48,
+      "speaker": 1,
+      "confidence": 0.472,
+      "final": false
+    },
+    {
+      "from": 22.48,
+      "to": 22.77,
+      "speaker": 1,
+      "confidence": 0.472,
+      "final": false
+    },
+    {
+      "from": 22.77,
+      "to": 23.09,
+      "speaker": 1,
+      "confidence": 0.472,
+      "final": false
+    },
+    {
+      "from": 23.09,
+      "to": 23.47,
+      "speaker": 1,
+      "confidence": 0.472,
+      "final": false
+    },
+    {
+      "from": 24.46,
+      "to": 24.88,
+      "speaker": 1,
+      "confidence": 0.532,
+      "final": false
+    },
+    {
+      "from": 25.45,
+      "to": 25.66,
+      "speaker": 1,
+      "confidence": 0.481,
+      "final": false
+    },
+    {
+      "from": 25.66,
+      "to": 26.08,
+      "speaker": 1,
+      "confidence": 0.481,
+      "final": false
+    },
+    {
+      "from": 26.08,
+      "to": 26.17,
+      "speaker": 1,
+      "confidence": 0.481,
+      "final": false
+    },
+    {
+      "from": 26.17,
+      "to": 26.38,
+      "speaker": 1,
+      "confidence": 0.481,
+      "final": false
+    },
+    {
+      "from": 26.38,
+      "to": 26.47,
+      "speaker": 1,
+      "confidence": 0.481,
+      "final": false
+    },
+    {
+      "from": 26.47,
+      "to": 26.82,
+      "speaker": 1,
+      "confidence": 0.481,
+      "final": false
+    },
+    {
+      "from": 26.82,
+      "to": 27.15,
+      "speaker": 1,
+      "confidence": 0.481,
+      "final": false
+    },
+    {
+      "from": 27.15,
+      "to": 27.28,
+      "speaker": 1,
+      "confidence": 0.481,
+      "final": false
+    },
+    {
+      "from": 27.28,
+      "to": 27.91,
+      "speaker": 1,
+      "confidence": 0.481,
+      "final": false
+    },
+    {
+      "from": 28.68,
+      "to": 29.01,
+      "speaker": 1,
+      "confidence": 0.536,
+      "final": false
+    },
+    {
+      "from": 29.13,
+      "to": 29.21,
+      "speaker": 1,
+      "confidence": 0.458,
+      "final": false
+    },
+    {
+      "from": 29.21,
+      "to": 29.47,
+      "speaker": 1,
+      "confidence": 0.458,
+      "final": false
+    },
+    {
+      "from": 29.47,
+      "to": 29.55,
+      "speaker": 1,
+      "confidence": 0.458,
+      "final": false
+    },
+    {
+      "from": 29.55,
+      "to": 29.7,
+      "speaker": 1,
+      "confidence": 0.458,
+      "final": false
+    },
+    {
+      "from": 29.7,
+      "to": 29.76,
+      "speaker": 1,
+      "confidence": 0.458,
+      "final": false
+    },
+    {
+      "from": 29.76,
+      "to": 30,
+      "speaker": 1,
+      "confidence": 0.458,
+      "final": false
+    },
+    {
+      "from": 30,
+      "to": 30.18,
+      "speaker": 1,
+      "confidence": 0.458,
+      "final": false
+    },
+    {
+      "from": 30.18,
+      "to": 30.4,
+      "speaker": 1,
+      "confidence": 0.458,
+      "final": false
+    },
+    {
+      "from": 30.4,
+      "to": 30.7,
+      "speaker": 1,
+      "confidence": 0.458,
+      "final": false
+    },
+    {
+      "from": 30.7,
+      "to": 31.24,
+      "speaker": 1,
+      "confidence": 0.458,
+      "final": true
+    }
+  ],
+  "filename": "podcast-2.mp3"
+}

@@ -1,0 +1,1037 @@
+{
+  "results": [
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "decent",
+              0.71,
+              1.44
+            ]
+          ],
+          "confidence": 0.134,
+          "transcript": "decent "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 2.3,
+          "alternatives": [
+            {
+              "confidence": 0.9923,
+              "word": "in"
+            }
+          ],
+          "end_time": 2.42
+        },
+        {
+          "start_time": 2.42,
+          "alternatives": [
+            {
+              "confidence": 0.9573,
+              "word": "hindsight"
+            }
+          ],
+          "end_time": 3.12
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "in",
+              2.3,
+              2.42
+            ],
+            [
+              "hindsight",
+              2.42,
+              3.12
+            ],
+            [
+              "sodomy",
+              3.33,
+              3.9
+            ],
+            [
+              "was",
+              3.9,
+              4.18
+            ],
+            [
+              "not",
+              4.18,
+              4.34
+            ],
+            [
+              "brings",
+              4.34,
+              4.8
+            ]
+          ],
+          "confidence": 0.552,
+          "transcript": "in hindsight sodomy was not brings "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 5.93,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "in"
+            }
+          ],
+          "end_time": 6.09
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "in",
+              5.93,
+              6.09
+            ],
+            [
+              "hindsight",
+              6.09,
+              6.83
+            ],
+            [
+              "the",
+              6.83,
+              6.94
+            ],
+            [
+              "sodomy",
+              6.94,
+              7.79
+            ]
+          ],
+          "confidence": 0.487,
+          "transcript": "in hindsight the sodomy "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "was",
+              8.54,
+              8.79
+            ],
+            [
+              "looking",
+              8.79,
+              9.29
+            ],
+            [
+              "and",
+              9.47,
+              9.77
+            ]
+          ],
+          "confidence": 0.434,
+          "transcript": "was looking and "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 10.38,
+          "alternatives": [
+            {
+              "confidence": 0.9529,
+              "word": "they"
+            }
+          ],
+          "end_time": 10.55
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "they",
+              10.38,
+              10.55
+            ],
+            [
+              "cover",
+              10.55,
+              11.02
+            ],
+            [
+              "it",
+              11.02,
+              11.32
+            ],
+            [
+              "my",
+              11.48,
+              12.15
+            ]
+          ],
+          "confidence": 0.381,
+          "transcript": "they cover it my "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "%HESITATION",
+              13.1,
+              13.51
+            ],
+            [
+              "transport",
+              13.99,
+              14.58
+            ],
+            [
+              "they",
+              14.94,
+              15.04
+            ],
+            [
+              "covered",
+              15.04,
+              15.39
+            ],
+            [
+              "my",
+              15.39,
+              15.57
+            ],
+            [
+              "chance",
+              15.57,
+              15.91
+            ]
+          ],
+          "confidence": 0.513,
+          "transcript": "%HESITATION transport they covered my chance "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "saying",
+              16.29,
+              16.87
+            ]
+          ],
+          "confidence": 0.206,
+          "transcript": "saying "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "imagine",
+              18.09,
+              18.5
+            ],
+            [
+              "decided",
+              18.54,
+              18.92
+            ],
+            [
+              "they",
+              18.92,
+              19.03
+            ],
+            [
+              "started",
+              19.03,
+              19.53
+            ],
+            [
+              "your",
+              19.85,
+              20.11
+            ],
+            [
+              "it",
+              20.8,
+              20.94
+            ],
+            [
+              "was",
+              20.94,
+              21.09
+            ],
+            [
+              "better",
+              21.09,
+              21.38
+            ],
+            [
+              "than",
+              21.38,
+              21.55
+            ],
+            [
+              "I",
+              21.55,
+              21.6
+            ],
+            [
+              "was",
+              21.6,
+              21.73
+            ],
+            [
+              "receiving",
+              21.73,
+              22.3
+            ],
+            [
+              "at",
+              22.33,
+              22.5
+            ],
+            [
+              "the",
+              22.5,
+              22.58
+            ],
+            [
+              "time",
+              22.58,
+              22.91
+            ],
+            [
+              "because",
+              22.94,
+              23.29
+            ],
+            [
+              "anything",
+              23.35,
+              23.86
+            ],
+            [
+              "gypsy",
+              24.14,
+              24.46
+            ]
+          ],
+          "confidence": 0.54,
+          "transcript": "imagine decided they started your it was better than I was receiving at the time because anything gypsy "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 26.16,
+          "alternatives": [
+            {
+              "confidence": 0.9742,
+              "word": "but"
+            }
+          ],
+          "end_time": 26.39
+        },
+        {
+          "start_time": 26.66,
+          "alternatives": [
+            {
+              "confidence": 0.9651,
+              "word": "in"
+            }
+          ],
+          "end_time": 26.77
+        },
+        {
+          "start_time": 26.77,
+          "alternatives": [
+            {
+              "confidence": 0.9537,
+              "word": "terms"
+            }
+          ],
+          "end_time": 27.08
+        },
+        {
+          "start_time": 28.36,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "the"
+            }
+          ],
+          "end_time": 28.44
+        },
+        {
+          "start_time": 28.44,
+          "alternatives": [
+            {
+              "confidence": 0.9498,
+              "word": "industry"
+            }
+          ],
+          "end_time": 29.01
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "but",
+              26.16,
+              26.39
+            ],
+            [
+              "in",
+              26.66,
+              26.77
+            ],
+            [
+              "terms",
+              26.77,
+              27.08
+            ],
+            [
+              "of",
+              27.08,
+              27.22
+            ],
+            [
+              "compress",
+              27.41,
+              27.81
+            ],
+            [
+              "it",
+              27.81,
+              27.91
+            ],
+            [
+              "to",
+              27.91,
+              28.02
+            ],
+            [
+              "the",
+              28.02,
+              28.1
+            ],
+            [
+              "rest",
+              28.1,
+              28.29
+            ],
+            [
+              "of",
+              28.29,
+              28.36
+            ],
+            [
+              "the",
+              28.36,
+              28.44
+            ],
+            [
+              "industry",
+              28.44,
+              29.01
+            ],
+            [
+              "and",
+              29.05,
+              29.21
+            ],
+            [
+              "for",
+              29.21,
+              29.33
+            ],
+            [
+              "the",
+              29.33,
+              29.43
+            ],
+            [
+              "fact",
+              29.43,
+              29.74
+            ],
+            [
+              "that",
+              29.74,
+              29.86
+            ],
+            [
+              "I",
+              29.86,
+              29.92
+            ],
+            [
+              "was",
+              29.92,
+              30.1
+            ],
+            [
+              "not",
+              30.46,
+              30.63
+            ],
+            [
+              "good",
+              30.63,
+              30.87
+            ]
+          ],
+          "confidence": 0.758,
+          "transcript": "but in terms of compress it to the rest of the industry and for the fact that I was not good "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 31.44,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "it"
+            }
+          ],
+          "end_time": 31.62
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "it",
+              31.44,
+              31.62
+            ],
+            [
+              "was",
+              31.62,
+              31.89
+            ],
+            [
+              "a",
+              31.89,
+              31.98
+            ]
+          ],
+          "confidence": 0.79,
+          "transcript": "it was a "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0,
+  "speaker_labels": [
+    {
+      "from": 0.71,
+      "to": 1.44,
+      "speaker": 1,
+      "confidence": 0.534,
+      "final": false
+    },
+    {
+      "from": 2.3,
+      "to": 2.42,
+      "speaker": 1,
+      "confidence": 0.482,
+      "final": false
+    },
+    {
+      "from": 2.42,
+      "to": 3.12,
+      "speaker": 1,
+      "confidence": 0.482,
+      "final": false
+    },
+    {
+      "from": 3.33,
+      "to": 3.9,
+      "speaker": 1,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 3.9,
+      "to": 4.18,
+      "speaker": 1,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 4.18,
+      "to": 4.34,
+      "speaker": 1,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 4.34,
+      "to": 4.8,
+      "speaker": 1,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 5.93,
+      "to": 6.09,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 6.09,
+      "to": 6.83,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 6.83,
+      "to": 6.94,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 6.94,
+      "to": 7.79,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 8.54,
+      "to": 8.79,
+      "speaker": 1,
+      "confidence": 0.546,
+      "final": false
+    },
+    {
+      "from": 8.79,
+      "to": 9.29,
+      "speaker": 1,
+      "confidence": 0.546,
+      "final": false
+    },
+    {
+      "from": 9.47,
+      "to": 9.77,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 10.38,
+      "to": 10.55,
+      "speaker": 1,
+      "confidence": 0.472,
+      "final": false
+    },
+    {
+      "from": 10.55,
+      "to": 11.02,
+      "speaker": 1,
+      "confidence": 0.472,
+      "final": false
+    },
+    {
+      "from": 11.02,
+      "to": 11.32,
+      "speaker": 1,
+      "confidence": 0.472,
+      "final": false
+    },
+    {
+      "from": 11.48,
+      "to": 12.15,
+      "speaker": 1,
+      "confidence": 0.478,
+      "final": false
+    },
+    {
+      "from": 13.1,
+      "to": 13.51,
+      "speaker": 1,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 13.99,
+      "to": 14.58,
+      "speaker": 1,
+      "confidence": 0.405,
+      "final": false
+    },
+    {
+      "from": 14.94,
+      "to": 15.04,
+      "speaker": 1,
+      "confidence": 0.396,
+      "final": false
+    },
+    {
+      "from": 15.04,
+      "to": 15.39,
+      "speaker": 1,
+      "confidence": 0.396,
+      "final": false
+    },
+    {
+      "from": 15.39,
+      "to": 15.57,
+      "speaker": 1,
+      "confidence": 0.396,
+      "final": false
+    },
+    {
+      "from": 15.57,
+      "to": 15.91,
+      "speaker": 1,
+      "confidence": 0.396,
+      "final": false
+    },
+    {
+      "from": 16.29,
+      "to": 16.87,
+      "speaker": 1,
+      "confidence": 0.521,
+      "final": false
+    },
+    {
+      "from": 18.09,
+      "to": 18.5,
+      "speaker": 1,
+      "confidence": 0.44,
+      "final": false
+    },
+    {
+      "from": 18.54,
+      "to": 18.92,
+      "speaker": 1,
+      "confidence": 0.505,
+      "final": false
+    },
+    {
+      "from": 18.92,
+      "to": 19.03,
+      "speaker": 1,
+      "confidence": 0.505,
+      "final": false
+    },
+    {
+      "from": 19.03,
+      "to": 19.53,
+      "speaker": 1,
+      "confidence": 0.505,
+      "final": false
+    },
+    {
+      "from": 19.85,
+      "to": 20.11,
+      "speaker": 1,
+      "confidence": 0.407,
+      "final": false
+    },
+    {
+      "from": 20.8,
+      "to": 20.94,
+      "speaker": 1,
+      "confidence": 0.502,
+      "final": false
+    },
+    {
+      "from": 20.94,
+      "to": 21.09,
+      "speaker": 1,
+      "confidence": 0.502,
+      "final": false
+    },
+    {
+      "from": 21.09,
+      "to": 21.38,
+      "speaker": 1,
+      "confidence": 0.502,
+      "final": false
+    },
+    {
+      "from": 21.38,
+      "to": 21.55,
+      "speaker": 1,
+      "confidence": 0.502,
+      "final": false
+    },
+    {
+      "from": 21.55,
+      "to": 21.6,
+      "speaker": 1,
+      "confidence": 0.502,
+      "final": false
+    },
+    {
+      "from": 21.6,
+      "to": 21.73,
+      "speaker": 1,
+      "confidence": 0.502,
+      "final": false
+    },
+    {
+      "from": 21.73,
+      "to": 22.3,
+      "speaker": 1,
+      "confidence": 0.502,
+      "final": false
+    },
+    {
+      "from": 22.33,
+      "to": 22.5,
+      "speaker": 1,
+      "confidence": 0.506,
+      "final": false
+    },
+    {
+      "from": 22.5,
+      "to": 22.58,
+      "speaker": 1,
+      "confidence": 0.506,
+      "final": false
+    },
+    {
+      "from": 22.58,
+      "to": 22.91,
+      "speaker": 1,
+      "confidence": 0.506,
+      "final": false
+    },
+    {
+      "from": 22.94,
+      "to": 23.29,
+      "speaker": 1,
+      "confidence": 0.594,
+      "final": false
+    },
+    {
+      "from": 23.35,
+      "to": 23.86,
+      "speaker": 1,
+      "confidence": 0.549,
+      "final": false
+    },
+    {
+      "from": 24.14,
+      "to": 24.46,
+      "speaker": 1,
+      "confidence": 0.58,
+      "final": false
+    },
+    {
+      "from": 26.16,
+      "to": 26.39,
+      "speaker": 1,
+      "confidence": 0.458,
+      "final": false
+    },
+    {
+      "from": 26.66,
+      "to": 26.77,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 26.77,
+      "to": 27.08,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 27.08,
+      "to": 27.22,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 27.41,
+      "to": 27.81,
+      "speaker": 1,
+      "confidence": 0.524,
+      "final": false
+    },
+    {
+      "from": 27.81,
+      "to": 27.91,
+      "speaker": 1,
+      "confidence": 0.524,
+      "final": false
+    },
+    {
+      "from": 27.91,
+      "to": 28.02,
+      "speaker": 1,
+      "confidence": 0.524,
+      "final": false
+    },
+    {
+      "from": 28.02,
+      "to": 28.1,
+      "speaker": 1,
+      "confidence": 0.524,
+      "final": false
+    },
+    {
+      "from": 28.1,
+      "to": 28.29,
+      "speaker": 1,
+      "confidence": 0.524,
+      "final": false
+    },
+    {
+      "from": 28.29,
+      "to": 28.36,
+      "speaker": 1,
+      "confidence": 0.524,
+      "final": false
+    },
+    {
+      "from": 28.36,
+      "to": 28.44,
+      "speaker": 1,
+      "confidence": 0.524,
+      "final": false
+    },
+    {
+      "from": 28.44,
+      "to": 29.01,
+      "speaker": 1,
+      "confidence": 0.524,
+      "final": false
+    },
+    {
+      "from": 29.05,
+      "to": 29.21,
+      "speaker": 1,
+      "confidence": 0.519,
+      "final": false
+    },
+    {
+      "from": 29.21,
+      "to": 29.33,
+      "speaker": 1,
+      "confidence": 0.519,
+      "final": false
+    },
+    {
+      "from": 29.33,
+      "to": 29.43,
+      "speaker": 1,
+      "confidence": 0.519,
+      "final": false
+    },
+    {
+      "from": 29.43,
+      "to": 29.74,
+      "speaker": 1,
+      "confidence": 0.519,
+      "final": false
+    },
+    {
+      "from": 29.74,
+      "to": 29.86,
+      "speaker": 1,
+      "confidence": 0.519,
+      "final": false
+    },
+    {
+      "from": 29.86,
+      "to": 29.92,
+      "speaker": 1,
+      "confidence": 0.519,
+      "final": false
+    },
+    {
+      "from": 29.92,
+      "to": 30.1,
+      "speaker": 1,
+      "confidence": 0.519,
+      "final": false
+    },
+    {
+      "from": 30.46,
+      "to": 30.63,
+      "speaker": 1,
+      "confidence": 0.495,
+      "final": false
+    },
+    {
+      "from": 30.63,
+      "to": 30.87,
+      "speaker": 1,
+      "confidence": 0.495,
+      "final": false
+    },
+    {
+      "from": 31.44,
+      "to": 31.62,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 31.62,
+      "to": 31.89,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": false
+    },
+    {
+      "from": 31.89,
+      "to": 31.98,
+      "speaker": 1,
+      "confidence": 0.51,
+      "final": true
+    }
+  ],
+  "filename": "podcast-5.mp3"
+}

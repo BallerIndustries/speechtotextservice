@@ -1,0 +1,838 @@
+{
+  "results": [
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "teach",
+              0.93,
+              1.22
+            ],
+            [
+              "people",
+              1.32,
+              1.66
+            ],
+            [
+              "how",
+              2.1,
+              2.23
+            ],
+            [
+              "to",
+              2.23,
+              2.37
+            ],
+            [
+              "allow",
+              3.03,
+              3.42
+            ],
+            [
+              "quicker",
+              3.42,
+              3.9
+            ]
+          ],
+          "confidence": 0.529,
+          "transcript": "teach people how to allow quicker "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 4.95,
+          "alternatives": [
+            {
+              "confidence": 0.9935,
+              "word": "that's"
+            }
+          ],
+          "end_time": 5.18
+        },
+        {
+          "start_time": 5.18,
+          "alternatives": [
+            {
+              "confidence": 0.9935,
+              "word": "not"
+            }
+          ],
+          "end_time": 5.36
+        },
+        {
+          "start_time": 5.36,
+          "alternatives": [
+            {
+              "confidence": 0.9935,
+              "word": "exactly"
+            }
+          ],
+          "end_time": 5.74
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "that's",
+              4.95,
+              5.18
+            ],
+            [
+              "not",
+              5.18,
+              5.36
+            ],
+            [
+              "exactly",
+              5.36,
+              5.74
+            ],
+            [
+              "what",
+              5.74,
+              5.9
+            ],
+            [
+              "happened",
+              5.9,
+              6.18
+            ]
+          ],
+          "confidence": 0.893,
+          "transcript": "that's not exactly what happened "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "the",
+              6.79,
+              6.85
+            ],
+            [
+              "team",
+              6.85,
+              7.16
+            ],
+            [
+              "I",
+              7.16,
+              7.24
+            ],
+            [
+              "was",
+              7.24,
+              7.54
+            ],
+            [
+              "it",
+              7.77,
+              8.1
+            ],
+            [
+              "was",
+              8.37,
+              8.66
+            ],
+            [
+              "quite",
+              8.66,
+              9.03
+            ],
+            [
+              "some",
+              9.03,
+              9.26
+            ]
+          ],
+          "confidence": 0.75,
+          "transcript": "the team I was it was quite some "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              10.27,
+              10.62
+            ],
+            [
+              "it",
+              10.95,
+              11.18
+            ],
+            [
+              "really",
+              11.22,
+              11.58
+            ]
+          ],
+          "confidence": 0.452,
+          "transcript": "and it really "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "now",
+              12.42,
+              12.72
+            ],
+            [
+              "for",
+              12.97,
+              13.31
+            ],
+            [
+              "people",
+              13.31,
+              14.17
+            ],
+            [
+              "increased",
+              14.37,
+              15.15
+            ],
+            [
+              "longer",
+              15.41,
+              15.88
+            ],
+            [
+              "ask",
+              15.88,
+              16.19
+            ],
+            [
+              "right",
+              16.19,
+              16.38
+            ],
+            [
+              "by",
+              16.51,
+              16.63
+            ],
+            [
+              "the",
+              16.63,
+              16.69
+            ],
+            [
+              "time",
+              16.69,
+              16.95
+            ],
+            [
+              "I",
+              16.95,
+              17.09
+            ]
+          ],
+          "confidence": 0.585,
+          "transcript": "now for people increased longer ask right by the time I "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "beat",
+              18.29,
+              18.69
+            ]
+          ],
+          "confidence": 0.164,
+          "transcript": "beat "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 20.29,
+          "alternatives": [
+            {
+              "confidence": 0.9999,
+              "word": "and"
+            }
+          ],
+          "end_time": 20.85
+        },
+        {
+          "start_time": 21.67,
+          "alternatives": [
+            {
+              "confidence": 0.948,
+              "word": "just"
+            }
+          ],
+          "end_time": 21.99
+        },
+        {
+          "start_time": 22.1,
+          "alternatives": [
+            {
+              "confidence": 0.9973,
+              "word": "it"
+            }
+          ],
+          "end_time": 22.34
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              20.29,
+              20.85
+            ],
+            [
+              "it",
+              21.32,
+              21.48
+            ],
+            [
+              "was",
+              21.48,
+              21.67
+            ],
+            [
+              "just",
+              21.67,
+              21.99
+            ],
+            [
+              "it",
+              22.1,
+              22.34
+            ],
+            [
+              "was",
+              22.34,
+              22.54
+            ],
+            [
+              "really",
+              22.54,
+              22.87
+            ],
+            [
+              "weird",
+              22.87,
+              23.35
+            ],
+            [
+              "like",
+              23.35,
+              23.67
+            ],
+            [
+              "there",
+              23.67,
+              23.78
+            ],
+            [
+              "was",
+              23.78,
+              23.95
+            ],
+            [
+              "just",
+              23.95,
+              24.18
+            ],
+            [
+              "this",
+              24.18,
+              24.41
+            ],
+            [
+              "one",
+              24.71,
+              24.93
+            ],
+            [
+              "developer",
+              24.93,
+              25.41
+            ],
+            [
+              "who",
+              25.41,
+              25.61
+            ],
+            [
+              "you",
+              25.86,
+              26.19
+            ],
+            [
+              "want",
+              26.23,
+              26.45
+            ],
+            [
+              "us",
+              26.45,
+              26.55
+            ],
+            [
+              "to",
+              26.55,
+              26.64
+            ],
+            [
+              "cut",
+              26.64,
+              26.88
+            ],
+            [
+              "it",
+              26.88,
+              27.18
+            ],
+            [
+              "work",
+              27.22,
+              27.66
+            ]
+          ],
+          "confidence": 0.576,
+          "transcript": "and it was just it was really weird like there was just this one developer who you want us to cut it work "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0,
+  "speaker_labels": [
+    {
+      "from": 0.93,
+      "to": 1.22,
+      "speaker": 0,
+      "confidence": 0.59,
+      "final": false
+    },
+    {
+      "from": 1.32,
+      "to": 1.66,
+      "speaker": 1,
+      "confidence": 0.414,
+      "final": false
+    },
+    {
+      "from": 2.1,
+      "to": 2.23,
+      "speaker": 1,
+      "confidence": 0.589,
+      "final": false
+    },
+    {
+      "from": 2.23,
+      "to": 2.37,
+      "speaker": 1,
+      "confidence": 0.589,
+      "final": false
+    },
+    {
+      "from": 3.03,
+      "to": 3.42,
+      "speaker": 1,
+      "confidence": 0.578,
+      "final": false
+    },
+    {
+      "from": 3.42,
+      "to": 3.9,
+      "speaker": 1,
+      "confidence": 0.578,
+      "final": false
+    },
+    {
+      "from": 4.95,
+      "to": 5.18,
+      "speaker": 1,
+      "confidence": 0.613,
+      "final": false
+    },
+    {
+      "from": 5.18,
+      "to": 5.36,
+      "speaker": 1,
+      "confidence": 0.613,
+      "final": false
+    },
+    {
+      "from": 5.36,
+      "to": 5.74,
+      "speaker": 1,
+      "confidence": 0.613,
+      "final": false
+    },
+    {
+      "from": 5.74,
+      "to": 5.9,
+      "speaker": 1,
+      "confidence": 0.613,
+      "final": false
+    },
+    {
+      "from": 5.9,
+      "to": 6.18,
+      "speaker": 1,
+      "confidence": 0.613,
+      "final": false
+    },
+    {
+      "from": 6.79,
+      "to": 6.85,
+      "speaker": 0,
+      "confidence": 0.546,
+      "final": false
+    },
+    {
+      "from": 6.85,
+      "to": 7.16,
+      "speaker": 0,
+      "confidence": 0.546,
+      "final": false
+    },
+    {
+      "from": 7.16,
+      "to": 7.24,
+      "speaker": 0,
+      "confidence": 0.546,
+      "final": false
+    },
+    {
+      "from": 7.24,
+      "to": 7.54,
+      "speaker": 0,
+      "confidence": 0.546,
+      "final": false
+    },
+    {
+      "from": 7.77,
+      "to": 8.1,
+      "speaker": 0,
+      "confidence": 0.606,
+      "final": false
+    },
+    {
+      "from": 8.37,
+      "to": 8.66,
+      "speaker": 1,
+      "confidence": 0.524,
+      "final": false
+    },
+    {
+      "from": 8.66,
+      "to": 9.03,
+      "speaker": 1,
+      "confidence": 0.524,
+      "final": false
+    },
+    {
+      "from": 9.03,
+      "to": 9.26,
+      "speaker": 1,
+      "confidence": 0.524,
+      "final": false
+    },
+    {
+      "from": 10.27,
+      "to": 10.62,
+      "speaker": 1,
+      "confidence": 0.581,
+      "final": false
+    },
+    {
+      "from": 10.95,
+      "to": 11.18,
+      "speaker": 0,
+      "confidence": 0.593,
+      "final": false
+    },
+    {
+      "from": 11.22,
+      "to": 11.58,
+      "speaker": 0,
+      "confidence": 0.524,
+      "final": false
+    },
+    {
+      "from": 12.42,
+      "to": 12.72,
+      "speaker": 1,
+      "confidence": 0.585,
+      "final": false
+    },
+    {
+      "from": 12.97,
+      "to": 13.31,
+      "speaker": 0,
+      "confidence": 0.546,
+      "final": false
+    },
+    {
+      "from": 13.31,
+      "to": 14.17,
+      "speaker": 0,
+      "confidence": 0.546,
+      "final": false
+    },
+    {
+      "from": 14.37,
+      "to": 15.15,
+      "speaker": 0,
+      "confidence": 0.445,
+      "final": false
+    },
+    {
+      "from": 15.41,
+      "to": 15.88,
+      "speaker": 1,
+      "confidence": 0.541,
+      "final": false
+    },
+    {
+      "from": 15.88,
+      "to": 16.19,
+      "speaker": 1,
+      "confidence": 0.541,
+      "final": false
+    },
+    {
+      "from": 16.19,
+      "to": 16.38,
+      "speaker": 1,
+      "confidence": 0.541,
+      "final": false
+    },
+    {
+      "from": 16.51,
+      "to": 16.63,
+      "speaker": 1,
+      "confidence": 0.603,
+      "final": false
+    },
+    {
+      "from": 16.63,
+      "to": 16.69,
+      "speaker": 1,
+      "confidence": 0.603,
+      "final": false
+    },
+    {
+      "from": 16.69,
+      "to": 16.95,
+      "speaker": 1,
+      "confidence": 0.603,
+      "final": false
+    },
+    {
+      "from": 16.95,
+      "to": 17.09,
+      "speaker": 1,
+      "confidence": 0.603,
+      "final": false
+    },
+    {
+      "from": 18.29,
+      "to": 18.69,
+      "speaker": 0,
+      "confidence": 0.481,
+      "final": false
+    },
+    {
+      "from": 20.29,
+      "to": 20.85,
+      "speaker": 1,
+      "confidence": 0.374,
+      "final": false
+    },
+    {
+      "from": 21.32,
+      "to": 21.48,
+      "speaker": 0,
+      "confidence": 0.608,
+      "final": false
+    },
+    {
+      "from": 21.48,
+      "to": 21.67,
+      "speaker": 0,
+      "confidence": 0.608,
+      "final": false
+    },
+    {
+      "from": 21.67,
+      "to": 21.99,
+      "speaker": 0,
+      "confidence": 0.608,
+      "final": false
+    },
+    {
+      "from": 22.1,
+      "to": 22.34,
+      "speaker": 0,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 22.34,
+      "to": 22.54,
+      "speaker": 0,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 22.54,
+      "to": 22.87,
+      "speaker": 0,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 22.87,
+      "to": 23.35,
+      "speaker": 0,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 23.35,
+      "to": 23.67,
+      "speaker": 0,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 23.67,
+      "to": 23.78,
+      "speaker": 0,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 23.78,
+      "to": 23.95,
+      "speaker": 0,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 23.95,
+      "to": 24.18,
+      "speaker": 0,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 24.18,
+      "to": 24.41,
+      "speaker": 0,
+      "confidence": 0.53,
+      "final": false
+    },
+    {
+      "from": 24.71,
+      "to": 24.93,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 24.93,
+      "to": 25.41,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 25.41,
+      "to": 25.61,
+      "speaker": 1,
+      "confidence": 0.48,
+      "final": false
+    },
+    {
+      "from": 25.86,
+      "to": 26.19,
+      "speaker": 1,
+      "confidence": 0.453,
+      "final": false
+    },
+    {
+      "from": 26.23,
+      "to": 26.45,
+      "speaker": 1,
+      "confidence": 0.505,
+      "final": false
+    },
+    {
+      "from": 26.45,
+      "to": 26.55,
+      "speaker": 1,
+      "confidence": 0.505,
+      "final": false
+    },
+    {
+      "from": 26.55,
+      "to": 26.64,
+      "speaker": 1,
+      "confidence": 0.505,
+      "final": false
+    },
+    {
+      "from": 26.64,
+      "to": 26.88,
+      "speaker": 1,
+      "confidence": 0.505,
+      "final": false
+    },
+    {
+      "from": 26.88,
+      "to": 27.18,
+      "speaker": 1,
+      "confidence": 0.505,
+      "final": false
+    },
+    {
+      "from": 27.22,
+      "to": 27.66,
+      "speaker": 1,
+      "confidence": 0.471,
+      "final": true
+    }
+  ],
+  "filename": "podcast-7.mp3"
+}

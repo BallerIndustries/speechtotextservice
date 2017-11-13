@@ -1,0 +1,686 @@
+{
+  "results": [
+    {
+      "word_alternatives": [
+        {
+          "start_time": 0.72,
+          "alternatives": [
+            {
+              "confidence": 0.9846,
+              "word": "love"
+            }
+          ],
+          "end_time": 1.19
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "do",
+              0.03,
+              0.09
+            ],
+            [
+              "you",
+              0.09,
+              0.22
+            ],
+            [
+              "fall",
+              0.22,
+              0.6
+            ],
+            [
+              "in",
+              0.6,
+              0.72
+            ],
+            [
+              "love",
+              0.72,
+              1.19
+            ]
+          ],
+          "confidence": 0.901,
+          "transcript": "do you fall in love "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "what",
+              2.69,
+              2.91
+            ],
+            [
+              "would",
+              2.91,
+              3.07
+            ],
+            [
+              "it",
+              3.07,
+              3.17
+            ],
+            [
+              "be",
+              3.17,
+              3.29
+            ],
+            [
+              "like",
+              3.29,
+              3.72
+            ]
+          ],
+          "confidence": 0.753,
+          "transcript": "what would it be like "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 4.46,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "I"
+            }
+          ],
+          "end_time": 4.61
+        },
+        {
+          "start_time": 4.61,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "don't"
+            }
+          ],
+          "end_time": 4.89
+        },
+        {
+          "start_time": 4.89,
+          "alternatives": [
+            {
+              "confidence": 0.9738,
+              "word": "know"
+            }
+          ],
+          "end_time": 5.32
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I",
+              4.46,
+              4.61
+            ],
+            [
+              "don't",
+              4.61,
+              4.89
+            ],
+            [
+              "know",
+              4.89,
+              5.32
+            ],
+            [
+              "thank",
+              5.57,
+              5.97
+            ],
+            [
+              "rehab",
+              6.43,
+              6.89
+            ],
+            [
+              "baby",
+              6.89,
+              7.37
+            ],
+            [
+              "therapy",
+              7.37,
+              7.85
+            ],
+            [
+              "like",
+              7.85,
+              8.06
+            ],
+            [
+              "fly",
+              8.06,
+              8.37
+            ],
+            [
+              "how",
+              8.37,
+              8.74
+            ],
+            [
+              "high",
+              8.74,
+              9.07
+            ],
+            [
+              "tech",
+              9.07,
+              9.4
+            ],
+            [
+              "ten",
+              9.4,
+              9.64
+            ],
+            [
+              "team",
+              9.64,
+              10.19
+            ],
+            [
+              "even",
+              10.59,
+              10.93
+            ],
+            [
+              "now",
+              10.93,
+              11.14
+            ],
+            [
+              "I",
+              11.14,
+              11.52
+            ],
+            [
+              "think",
+              11.52,
+              11.72
+            ],
+            [
+              "change",
+              11.72,
+              11.99
+            ],
+            [
+              "is",
+              11.99,
+              12.11
+            ],
+            [
+              "going",
+              12.11,
+              12.42
+            ]
+          ],
+          "confidence": 0.466,
+          "transcript": "I don't know thank rehab baby therapy like fly how high tech ten team even now I think change is going "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "they'll",
+              13.02,
+              13.19
+            ],
+            [
+              "make",
+              13.19,
+              13.39
+            ],
+            [
+              "fun",
+              13.39,
+              13.85
+            ]
+          ],
+          "confidence": 0.342,
+          "transcript": "they'll make fun "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "a",
+              15.19,
+              15.24
+            ],
+            [
+              "lot",
+              15.24,
+              15.54
+            ],
+            [
+              "of",
+              15.54,
+              15.69
+            ],
+            [
+              "the",
+              15.69,
+              15.79
+            ],
+            [
+              "crimes",
+              15.79,
+              16.53
+            ]
+          ],
+          "confidence": 0.46,
+          "transcript": "a lot of the crimes "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "well",
+              17.21,
+              17.58
+            ],
+            [
+              "I",
+              17.9,
+              18.03
+            ],
+            [
+              "just",
+              18.03,
+              18.3
+            ],
+            [
+              "adhering",
+              18.61,
+              19.36
+            ],
+            [
+              "to",
+              19.36,
+              19.47
+            ],
+            [
+              "reemerge",
+              19.47,
+              20.05
+            ]
+          ],
+          "confidence": 0.431,
+          "transcript": "well I just adhering to reemerge "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              20.28,
+              20.59
+            ]
+          ],
+          "confidence": 0.086,
+          "transcript": "and "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0,
+  "speaker_labels": [
+    {
+      "from": 0.03,
+      "to": 0.09,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 0.09,
+      "to": 0.22,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 0.22,
+      "to": 0.6,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 0.6,
+      "to": 0.72,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 0.72,
+      "to": 1.19,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 2.69,
+      "to": 2.91,
+      "speaker": 0,
+      "confidence": 0.621,
+      "final": false
+    },
+    {
+      "from": 2.91,
+      "to": 3.07,
+      "speaker": 0,
+      "confidence": 0.621,
+      "final": false
+    },
+    {
+      "from": 3.07,
+      "to": 3.17,
+      "speaker": 0,
+      "confidence": 0.621,
+      "final": false
+    },
+    {
+      "from": 3.17,
+      "to": 3.29,
+      "speaker": 0,
+      "confidence": 0.621,
+      "final": false
+    },
+    {
+      "from": 3.29,
+      "to": 3.72,
+      "speaker": 0,
+      "confidence": 0.621,
+      "final": false
+    },
+    {
+      "from": 4.46,
+      "to": 4.61,
+      "speaker": 1,
+      "confidence": 0.505,
+      "final": false
+    },
+    {
+      "from": 4.61,
+      "to": 4.89,
+      "speaker": 1,
+      "confidence": 0.505,
+      "final": false
+    },
+    {
+      "from": 4.89,
+      "to": 5.32,
+      "speaker": 1,
+      "confidence": 0.505,
+      "final": false
+    },
+    {
+      "from": 5.57,
+      "to": 5.97,
+      "speaker": 1,
+      "confidence": 0.519,
+      "final": false
+    },
+    {
+      "from": 6.43,
+      "to": 6.89,
+      "speaker": 1,
+      "confidence": 0.568,
+      "final": false
+    },
+    {
+      "from": 6.89,
+      "to": 7.37,
+      "speaker": 1,
+      "confidence": 0.568,
+      "final": false
+    },
+    {
+      "from": 7.37,
+      "to": 7.85,
+      "speaker": 1,
+      "confidence": 0.568,
+      "final": false
+    },
+    {
+      "from": 7.85,
+      "to": 8.06,
+      "speaker": 1,
+      "confidence": 0.568,
+      "final": false
+    },
+    {
+      "from": 8.06,
+      "to": 8.37,
+      "speaker": 1,
+      "confidence": 0.568,
+      "final": false
+    },
+    {
+      "from": 8.37,
+      "to": 8.74,
+      "speaker": 1,
+      "confidence": 0.568,
+      "final": false
+    },
+    {
+      "from": 8.74,
+      "to": 9.07,
+      "speaker": 1,
+      "confidence": 0.568,
+      "final": false
+    },
+    {
+      "from": 9.07,
+      "to": 9.4,
+      "speaker": 1,
+      "confidence": 0.568,
+      "final": false
+    },
+    {
+      "from": 9.4,
+      "to": 9.64,
+      "speaker": 1,
+      "confidence": 0.568,
+      "final": false
+    },
+    {
+      "from": 9.64,
+      "to": 10.19,
+      "speaker": 1,
+      "confidence": 0.568,
+      "final": false
+    },
+    {
+      "from": 10.59,
+      "to": 10.93,
+      "speaker": 1,
+      "confidence": 0.572,
+      "final": false
+    },
+    {
+      "from": 10.93,
+      "to": 11.14,
+      "speaker": 1,
+      "confidence": 0.572,
+      "final": false
+    },
+    {
+      "from": 11.14,
+      "to": 11.52,
+      "speaker": 1,
+      "confidence": 0.572,
+      "final": false
+    },
+    {
+      "from": 11.52,
+      "to": 11.72,
+      "speaker": 1,
+      "confidence": 0.572,
+      "final": false
+    },
+    {
+      "from": 11.72,
+      "to": 11.99,
+      "speaker": 1,
+      "confidence": 0.572,
+      "final": false
+    },
+    {
+      "from": 11.99,
+      "to": 12.11,
+      "speaker": 1,
+      "confidence": 0.572,
+      "final": false
+    },
+    {
+      "from": 12.11,
+      "to": 12.42,
+      "speaker": 1,
+      "confidence": 0.572,
+      "final": false
+    },
+    {
+      "from": 13.02,
+      "to": 13.19,
+      "speaker": 1,
+      "confidence": 0.494,
+      "final": false
+    },
+    {
+      "from": 13.19,
+      "to": 13.39,
+      "speaker": 1,
+      "confidence": 0.494,
+      "final": false
+    },
+    {
+      "from": 13.39,
+      "to": 13.85,
+      "speaker": 1,
+      "confidence": 0.494,
+      "final": false
+    },
+    {
+      "from": 15.19,
+      "to": 15.24,
+      "speaker": 1,
+      "confidence": 0.452,
+      "final": false
+    },
+    {
+      "from": 15.24,
+      "to": 15.54,
+      "speaker": 1,
+      "confidence": 0.452,
+      "final": false
+    },
+    {
+      "from": 15.54,
+      "to": 15.69,
+      "speaker": 1,
+      "confidence": 0.452,
+      "final": false
+    },
+    {
+      "from": 15.69,
+      "to": 15.79,
+      "speaker": 1,
+      "confidence": 0.452,
+      "final": false
+    },
+    {
+      "from": 15.79,
+      "to": 16.53,
+      "speaker": 1,
+      "confidence": 0.452,
+      "final": false
+    },
+    {
+      "from": 17.21,
+      "to": 17.58,
+      "speaker": 0,
+      "confidence": 0.421,
+      "final": false
+    },
+    {
+      "from": 17.9,
+      "to": 18.03,
+      "speaker": 1,
+      "confidence": 0.395,
+      "final": false
+    },
+    {
+      "from": 18.03,
+      "to": 18.3,
+      "speaker": 1,
+      "confidence": 0.395,
+      "final": false
+    },
+    {
+      "from": 18.61,
+      "to": 19.36,
+      "speaker": 1,
+      "confidence": 0.467,
+      "final": false
+    },
+    {
+      "from": 19.36,
+      "to": 19.47,
+      "speaker": 1,
+      "confidence": 0.467,
+      "final": false
+    },
+    {
+      "from": 19.47,
+      "to": 20.05,
+      "speaker": 1,
+      "confidence": 0.467,
+      "final": false
+    },
+    {
+      "from": 20.28,
+      "to": 20.59,
+      "speaker": 0,
+      "confidence": 0.551,
+      "final": true
+    }
+  ],
+  "filename": "talk-7.mp3"
+}

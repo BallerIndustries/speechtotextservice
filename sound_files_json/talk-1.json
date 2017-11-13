@@ -1,0 +1,550 @@
+{
+  "results": [
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "what",
+              3.04,
+              3.31
+            ],
+            [
+              "do",
+              3.31,
+              3.5
+            ],
+            [
+              "I",
+              3.5,
+              3.57
+            ],
+            [
+              "know",
+              3.57,
+              3.8
+            ],
+            [
+              "you",
+              3.91,
+              4.01
+            ],
+            [
+              "have",
+              4.01,
+              4.17
+            ],
+            [
+              "yours",
+              4.17,
+              4.58
+            ]
+          ],
+          "confidence": 0.448,
+          "transcript": "what do I know you have yours "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 7.54,
+          "alternatives": [
+            {
+              "confidence": 0.9397,
+              "word": "I"
+            }
+          ],
+          "end_time": 7.6
+        },
+        {
+          "start_time": 7.6,
+          "alternatives": [
+            {
+              "confidence": 0.9397,
+              "word": "don't"
+            }
+          ],
+          "end_time": 7.78
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I",
+              7.54,
+              7.6
+            ],
+            [
+              "don't",
+              7.6,
+              7.78
+            ],
+            [
+              "know",
+              7.78,
+              7.96
+            ],
+            [
+              "I",
+              7.96,
+              8.17
+            ],
+            [
+              "don't",
+              8.17,
+              8.36
+            ],
+            [
+              "think",
+              8.36,
+              8.57
+            ],
+            [
+              "so",
+              8.57,
+              8.67
+            ],
+            [
+              "team",
+              8.77,
+              9.05
+            ],
+            [
+              "right",
+              9.46,
+              9.6
+            ],
+            [
+              "now",
+              9.6,
+              9.72
+            ],
+            [
+              "during",
+              9.72,
+              10.08
+            ],
+            [
+              "this",
+              10.08,
+              10.21
+            ],
+            [
+              "time",
+              10.21,
+              10.49
+            ]
+          ],
+          "confidence": 0.351,
+          "transcript": "I don't know I don't think so team right now during this time "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "this",
+              12.71,
+              12.98
+            ],
+            [
+              "cute",
+              12.98,
+              13.17
+            ],
+            [
+              "Christian",
+              13.17,
+              13.58
+            ],
+            [
+              "to",
+              13.58,
+              13.69
+            ],
+            [
+              "first",
+              13.69,
+              13.98
+            ],
+            [
+              "would",
+              13.98,
+              14.14
+            ]
+          ],
+          "confidence": 0.675,
+          "transcript": "this cute Christian to first would "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 17.8,
+          "alternatives": [
+            {
+              "confidence": 0.992,
+              "word": "worst"
+            }
+          ],
+          "end_time": 18.25
+        },
+        {
+          "start_time": 18.25,
+          "alternatives": [
+            {
+              "confidence": 0.992,
+              "word": "thing"
+            }
+          ],
+          "end_time": 18.4
+        },
+        {
+          "start_time": 18.4,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "about"
+            }
+          ],
+          "end_time": 18.66
+        },
+        {
+          "start_time": 18.66,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "being"
+            }
+          ],
+          "end_time": 18.87
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "right",
+              15.95,
+              16.45
+            ],
+            [
+              "then",
+              16.58,
+              17
+            ],
+            [
+              "what",
+              17.37,
+              17.54
+            ],
+            [
+              "is",
+              17.54,
+              17.69
+            ],
+            [
+              "the",
+              17.69,
+              17.8
+            ],
+            [
+              "worst",
+              17.8,
+              18.25
+            ],
+            [
+              "thing",
+              18.25,
+              18.4
+            ],
+            [
+              "about",
+              18.4,
+              18.66
+            ],
+            [
+              "being",
+              18.66,
+              18.87
+            ],
+            [
+              "young",
+              18.87,
+              19.1
+            ]
+          ],
+          "confidence": 0.781,
+          "transcript": "right then what is the worst thing about being young "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0,
+  "speaker_labels": [
+    {
+      "from": 3.04,
+      "to": 3.31,
+      "speaker": 2,
+      "confidence": 0.415,
+      "final": false
+    },
+    {
+      "from": 3.31,
+      "to": 3.5,
+      "speaker": 2,
+      "confidence": 0.415,
+      "final": false
+    },
+    {
+      "from": 3.5,
+      "to": 3.57,
+      "speaker": 2,
+      "confidence": 0.415,
+      "final": false
+    },
+    {
+      "from": 3.57,
+      "to": 3.8,
+      "speaker": 2,
+      "confidence": 0.415,
+      "final": false
+    },
+    {
+      "from": 3.91,
+      "to": 4.01,
+      "speaker": 1,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 4.01,
+      "to": 4.17,
+      "speaker": 1,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 4.17,
+      "to": 4.58,
+      "speaker": 1,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 7.54,
+      "to": 7.6,
+      "speaker": 2,
+      "confidence": 0.36,
+      "final": false
+    },
+    {
+      "from": 7.6,
+      "to": 7.78,
+      "speaker": 2,
+      "confidence": 0.36,
+      "final": false
+    },
+    {
+      "from": 7.78,
+      "to": 7.96,
+      "speaker": 2,
+      "confidence": 0.36,
+      "final": false
+    },
+    {
+      "from": 7.96,
+      "to": 8.17,
+      "speaker": 2,
+      "confidence": 0.36,
+      "final": false
+    },
+    {
+      "from": 8.17,
+      "to": 8.36,
+      "speaker": 2,
+      "confidence": 0.36,
+      "final": false
+    },
+    {
+      "from": 8.36,
+      "to": 8.57,
+      "speaker": 2,
+      "confidence": 0.36,
+      "final": false
+    },
+    {
+      "from": 8.57,
+      "to": 8.67,
+      "speaker": 2,
+      "confidence": 0.36,
+      "final": false
+    },
+    {
+      "from": 8.77,
+      "to": 9.05,
+      "speaker": 2,
+      "confidence": 0.433,
+      "final": false
+    },
+    {
+      "from": 9.46,
+      "to": 9.6,
+      "speaker": 2,
+      "confidence": 0.354,
+      "final": false
+    },
+    {
+      "from": 9.6,
+      "to": 9.72,
+      "speaker": 2,
+      "confidence": 0.354,
+      "final": false
+    },
+    {
+      "from": 9.72,
+      "to": 10.08,
+      "speaker": 2,
+      "confidence": 0.354,
+      "final": false
+    },
+    {
+      "from": 10.08,
+      "to": 10.21,
+      "speaker": 2,
+      "confidence": 0.354,
+      "final": false
+    },
+    {
+      "from": 10.21,
+      "to": 10.49,
+      "speaker": 2,
+      "confidence": 0.354,
+      "final": false
+    },
+    {
+      "from": 12.71,
+      "to": 12.98,
+      "speaker": 3,
+      "confidence": 0.391,
+      "final": false
+    },
+    {
+      "from": 12.98,
+      "to": 13.17,
+      "speaker": 3,
+      "confidence": 0.391,
+      "final": false
+    },
+    {
+      "from": 13.17,
+      "to": 13.58,
+      "speaker": 3,
+      "confidence": 0.391,
+      "final": false
+    },
+    {
+      "from": 13.58,
+      "to": 13.69,
+      "speaker": 3,
+      "confidence": 0.391,
+      "final": false
+    },
+    {
+      "from": 13.69,
+      "to": 13.98,
+      "speaker": 3,
+      "confidence": 0.391,
+      "final": false
+    },
+    {
+      "from": 13.98,
+      "to": 14.14,
+      "speaker": 3,
+      "confidence": 0.391,
+      "final": false
+    },
+    {
+      "from": 15.95,
+      "to": 16.45,
+      "speaker": 3,
+      "confidence": 0.421,
+      "final": false
+    },
+    {
+      "from": 16.58,
+      "to": 17,
+      "speaker": 1,
+      "confidence": 0.449,
+      "final": false
+    },
+    {
+      "from": 17.37,
+      "to": 17.54,
+      "speaker": 3,
+      "confidence": 0.419,
+      "final": false
+    },
+    {
+      "from": 17.54,
+      "to": 17.69,
+      "speaker": 3,
+      "confidence": 0.419,
+      "final": false
+    },
+    {
+      "from": 17.69,
+      "to": 17.8,
+      "speaker": 3,
+      "confidence": 0.419,
+      "final": false
+    },
+    {
+      "from": 17.8,
+      "to": 18.25,
+      "speaker": 3,
+      "confidence": 0.419,
+      "final": false
+    },
+    {
+      "from": 18.25,
+      "to": 18.4,
+      "speaker": 3,
+      "confidence": 0.419,
+      "final": false
+    },
+    {
+      "from": 18.4,
+      "to": 18.66,
+      "speaker": 3,
+      "confidence": 0.419,
+      "final": false
+    },
+    {
+      "from": 18.66,
+      "to": 18.87,
+      "speaker": 3,
+      "confidence": 0.419,
+      "final": false
+    },
+    {
+      "from": 18.87,
+      "to": 19.1,
+      "speaker": 3,
+      "confidence": 0.419,
+      "final": true
+    }
+  ],
+  "filename": "talk-1.mp3"
+}

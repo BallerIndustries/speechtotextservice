@@ -1,0 +1,869 @@
+{
+  "results": [
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "who",
+              0.04,
+              0.1
+            ],
+            [
+              "who",
+              0.1,
+              0.3
+            ],
+            [
+              "you",
+              0.3,
+              0.48
+            ],
+            [
+              "are",
+              0.48,
+              0.56
+            ],
+            [
+              "young",
+              0.56,
+              0.95
+            ],
+            [
+              "and",
+              1.42,
+              1.66
+            ],
+            [
+              "like",
+              1.66,
+              1.95
+            ]
+          ],
+          "confidence": 0.507,
+          "transcript": "who who you are young and like "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 9.06,
+          "alternatives": [
+            {
+              "confidence": 0.9132,
+              "word": "body"
+            }
+          ],
+          "end_time": 9.37
+        },
+        {
+          "start_time": 9.37,
+          "alternatives": [
+            {
+              "confidence": 0.9243,
+              "word": "gets"
+            }
+          ],
+          "end_time": 9.65
+        },
+        {
+          "start_time": 11.31,
+          "alternatives": [
+            {
+              "confidence": 0.9201,
+              "word": "hurts"
+            }
+          ],
+          "end_time": 11.62
+        },
+        {
+          "start_time": 11.62,
+          "alternatives": [
+            {
+              "confidence": 0.9271,
+              "word": "a"
+            }
+          ],
+          "end_time": 11.67
+        },
+        {
+          "start_time": 11.67,
+          "alternatives": [
+            {
+              "confidence": 0.9272,
+              "word": "lot"
+            }
+          ],
+          "end_time": 11.97
+        },
+        {
+          "start_time": 11.97,
+          "alternatives": [
+            {
+              "confidence": 0.996,
+              "word": "when"
+            }
+          ],
+          "end_time": 12.1
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "you",
+              3.09,
+              3.34
+            ],
+            [
+              "can",
+              3.34,
+              3.61
+            ],
+            [
+              "thank",
+              3.61,
+              3.99
+            ],
+            [
+              "god",
+              3.99,
+              4.31
+            ],
+            [
+              "and",
+              4.31,
+              4.54
+            ],
+            [
+              "get",
+              4.54,
+              4.73
+            ],
+            [
+              "stuff",
+              4.73,
+              5.02
+            ],
+            [
+              "for",
+              5.02,
+              5.17
+            ],
+            [
+              "industrial",
+              5.17,
+              5.67
+            ],
+            [
+              "lurk",
+              5.67,
+              6.11
+            ],
+            [
+              "well",
+              6.14,
+              6.45
+            ],
+            [
+              "I",
+              6.45,
+              6.56
+            ],
+            [
+              "can",
+              6.56,
+              6.73
+            ],
+            [
+              "still",
+              6.73,
+              7.03
+            ],
+            [
+              "do",
+              7.03,
+              7.2
+            ],
+            [
+              "that",
+              7.2,
+              7.4
+            ],
+            [
+              "put",
+              7.77,
+              8.16
+            ],
+            [
+              "the",
+              8.21,
+              8.3
+            ],
+            [
+              "problem",
+              8.3,
+              8.71
+            ],
+            [
+              "is",
+              8.71,
+              8.94
+            ],
+            [
+              "your",
+              8.94,
+              9.06
+            ],
+            [
+              "body",
+              9.06,
+              9.37
+            ],
+            [
+              "gets",
+              9.37,
+              9.65
+            ],
+            [
+              "but",
+              9.65,
+              9.84
+            ],
+            [
+              "still",
+              9.84,
+              10.1
+            ],
+            [
+              "if",
+              10.1,
+              10.37
+            ],
+            [
+              "I",
+              10.87,
+              10.95
+            ],
+            [
+              "know",
+              10.95,
+              11.16
+            ],
+            [
+              "it",
+              11.16,
+              11.31
+            ],
+            [
+              "hurts",
+              11.31,
+              11.62
+            ],
+            [
+              "a",
+              11.62,
+              11.67
+            ],
+            [
+              "lot",
+              11.67,
+              11.97
+            ],
+            [
+              "when",
+              11.97,
+              12.1
+            ],
+            [
+              "you",
+              12.1,
+              12.47
+            ],
+            [
+              "know",
+              12.47,
+              12.71
+            ]
+          ],
+          "confidence": 0.589,
+          "transcript": "you can thank god and get stuff for industrial lurk well I can still do that put the problem is your body gets but still if I know it hurts a lot when you know "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 15.92,
+          "alternatives": [
+            {
+              "confidence": 0.9573,
+              "word": "sick"
+            }
+          ],
+          "end_time": 16.35
+        },
+        {
+          "start_time": 16.52,
+          "alternatives": [
+            {
+              "confidence": 0.9458,
+              "word": "more"
+            }
+          ],
+          "end_time": 16.77
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I'm",
+              13.87,
+              14.01
+            ],
+            [
+              "not",
+              14.01,
+              14.18
+            ],
+            [
+              "sure",
+              14.18,
+              14.4
+            ],
+            [
+              "if",
+              14.4,
+              14.52
+            ],
+            [
+              "yes",
+              14.52,
+              14.94
+            ],
+            [
+              "you",
+              15.41,
+              15.56
+            ],
+            [
+              "might",
+              15.56,
+              15.75
+            ],
+            [
+              "get",
+              15.75,
+              15.92
+            ],
+            [
+              "sick",
+              15.92,
+              16.35
+            ],
+            [
+              "more",
+              16.52,
+              16.77
+            ],
+            [
+              "often",
+              16.77,
+              17.19
+            ]
+          ],
+          "confidence": 0.766,
+          "transcript": "I'm not sure if yes you might get sick more often "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "I",
+              18.78,
+              18.83
+            ],
+            [
+              "don't",
+              18.83,
+              19.29
+            ]
+          ],
+          "confidence": 0.887,
+          "transcript": "I don't "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 19.91,
+          "alternatives": [
+            {
+              "confidence": 0.9795,
+              "word": "but"
+            }
+          ],
+          "end_time": 20.06
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "but",
+              19.91,
+              20.06
+            ],
+            [
+              "that's",
+              20.06,
+              20.28
+            ],
+            [
+              "no",
+              20.28,
+              20.38
+            ],
+            [
+              "problem",
+              20.38,
+              20.68
+            ]
+          ],
+          "confidence": 0.503,
+          "transcript": "but that's no problem "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0,
+  "speaker_labels": [
+    {
+      "from": 0.04,
+      "to": 0.1,
+      "speaker": 0,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 0.1,
+      "to": 0.3,
+      "speaker": 0,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 0.3,
+      "to": 0.48,
+      "speaker": 0,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 0.48,
+      "to": 0.56,
+      "speaker": 0,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 0.56,
+      "to": 0.95,
+      "speaker": 0,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 1.42,
+      "to": 1.66,
+      "speaker": 1,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 1.66,
+      "to": 1.95,
+      "speaker": 1,
+      "confidence": 0.667,
+      "final": false
+    },
+    {
+      "from": 3.09,
+      "to": 3.34,
+      "speaker": 1,
+      "confidence": 0.614,
+      "final": false
+    },
+    {
+      "from": 3.34,
+      "to": 3.61,
+      "speaker": 1,
+      "confidence": 0.614,
+      "final": false
+    },
+    {
+      "from": 3.61,
+      "to": 3.99,
+      "speaker": 1,
+      "confidence": 0.614,
+      "final": false
+    },
+    {
+      "from": 3.99,
+      "to": 4.31,
+      "speaker": 1,
+      "confidence": 0.614,
+      "final": false
+    },
+    {
+      "from": 4.31,
+      "to": 4.54,
+      "speaker": 1,
+      "confidence": 0.614,
+      "final": false
+    },
+    {
+      "from": 4.54,
+      "to": 4.73,
+      "speaker": 1,
+      "confidence": 0.614,
+      "final": false
+    },
+    {
+      "from": 4.73,
+      "to": 5.02,
+      "speaker": 1,
+      "confidence": 0.614,
+      "final": false
+    },
+    {
+      "from": 5.02,
+      "to": 5.17,
+      "speaker": 1,
+      "confidence": 0.614,
+      "final": false
+    },
+    {
+      "from": 5.17,
+      "to": 5.67,
+      "speaker": 1,
+      "confidence": 0.614,
+      "final": false
+    },
+    {
+      "from": 5.67,
+      "to": 6.11,
+      "speaker": 1,
+      "confidence": 0.614,
+      "final": false
+    },
+    {
+      "from": 6.14,
+      "to": 6.45,
+      "speaker": 0,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 6.45,
+      "to": 6.56,
+      "speaker": 0,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 6.56,
+      "to": 6.73,
+      "speaker": 0,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 6.73,
+      "to": 7.03,
+      "speaker": 0,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 7.03,
+      "to": 7.2,
+      "speaker": 0,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 7.2,
+      "to": 7.4,
+      "speaker": 0,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 7.77,
+      "to": 8.16,
+      "speaker": 0,
+      "confidence": 0.525,
+      "final": false
+    },
+    {
+      "from": 8.21,
+      "to": 8.3,
+      "speaker": 0,
+      "confidence": 0.523,
+      "final": false
+    },
+    {
+      "from": 8.3,
+      "to": 8.71,
+      "speaker": 0,
+      "confidence": 0.523,
+      "final": false
+    },
+    {
+      "from": 8.71,
+      "to": 8.94,
+      "speaker": 0,
+      "confidence": 0.523,
+      "final": false
+    },
+    {
+      "from": 8.94,
+      "to": 9.06,
+      "speaker": 0,
+      "confidence": 0.523,
+      "final": false
+    },
+    {
+      "from": 9.06,
+      "to": 9.37,
+      "speaker": 0,
+      "confidence": 0.523,
+      "final": false
+    },
+    {
+      "from": 9.37,
+      "to": 9.65,
+      "speaker": 0,
+      "confidence": 0.523,
+      "final": false
+    },
+    {
+      "from": 9.65,
+      "to": 9.84,
+      "speaker": 0,
+      "confidence": 0.523,
+      "final": false
+    },
+    {
+      "from": 9.84,
+      "to": 10.1,
+      "speaker": 0,
+      "confidence": 0.523,
+      "final": false
+    },
+    {
+      "from": 10.1,
+      "to": 10.37,
+      "speaker": 0,
+      "confidence": 0.523,
+      "final": false
+    },
+    {
+      "from": 10.87,
+      "to": 10.95,
+      "speaker": 1,
+      "confidence": 0.563,
+      "final": false
+    },
+    {
+      "from": 10.95,
+      "to": 11.16,
+      "speaker": 1,
+      "confidence": 0.563,
+      "final": false
+    },
+    {
+      "from": 11.16,
+      "to": 11.31,
+      "speaker": 1,
+      "confidence": 0.563,
+      "final": false
+    },
+    {
+      "from": 11.31,
+      "to": 11.62,
+      "speaker": 1,
+      "confidence": 0.563,
+      "final": false
+    },
+    {
+      "from": 11.62,
+      "to": 11.67,
+      "speaker": 1,
+      "confidence": 0.563,
+      "final": false
+    },
+    {
+      "from": 11.67,
+      "to": 11.97,
+      "speaker": 1,
+      "confidence": 0.563,
+      "final": false
+    },
+    {
+      "from": 11.97,
+      "to": 12.1,
+      "speaker": 1,
+      "confidence": 0.563,
+      "final": false
+    },
+    {
+      "from": 12.1,
+      "to": 12.47,
+      "speaker": 1,
+      "confidence": 0.563,
+      "final": false
+    },
+    {
+      "from": 12.47,
+      "to": 12.71,
+      "speaker": 1,
+      "confidence": 0.563,
+      "final": false
+    },
+    {
+      "from": 13.87,
+      "to": 14.01,
+      "speaker": 0,
+      "confidence": 0.362,
+      "final": false
+    },
+    {
+      "from": 14.01,
+      "to": 14.18,
+      "speaker": 0,
+      "confidence": 0.362,
+      "final": false
+    },
+    {
+      "from": 14.18,
+      "to": 14.4,
+      "speaker": 0,
+      "confidence": 0.362,
+      "final": false
+    },
+    {
+      "from": 14.4,
+      "to": 14.52,
+      "speaker": 0,
+      "confidence": 0.362,
+      "final": false
+    },
+    {
+      "from": 14.52,
+      "to": 14.94,
+      "speaker": 0,
+      "confidence": 0.362,
+      "final": false
+    },
+    {
+      "from": 15.41,
+      "to": 15.56,
+      "speaker": 0,
+      "confidence": 0.366,
+      "final": false
+    },
+    {
+      "from": 15.56,
+      "to": 15.75,
+      "speaker": 0,
+      "confidence": 0.366,
+      "final": false
+    },
+    {
+      "from": 15.75,
+      "to": 15.92,
+      "speaker": 0,
+      "confidence": 0.366,
+      "final": false
+    },
+    {
+      "from": 15.92,
+      "to": 16.35,
+      "speaker": 0,
+      "confidence": 0.366,
+      "final": false
+    },
+    {
+      "from": 16.52,
+      "to": 16.77,
+      "speaker": 0,
+      "confidence": 0.481,
+      "final": false
+    },
+    {
+      "from": 16.77,
+      "to": 17.19,
+      "speaker": 0,
+      "confidence": 0.481,
+      "final": false
+    },
+    {
+      "from": 18.78,
+      "to": 18.83,
+      "speaker": 0,
+      "confidence": 0.512,
+      "final": false
+    },
+    {
+      "from": 18.83,
+      "to": 19.29,
+      "speaker": 0,
+      "confidence": 0.512,
+      "final": false
+    },
+    {
+      "from": 19.91,
+      "to": 20.06,
+      "speaker": 0,
+      "confidence": 0.371,
+      "final": false
+    },
+    {
+      "from": 20.06,
+      "to": 20.28,
+      "speaker": 0,
+      "confidence": 0.371,
+      "final": false
+    },
+    {
+      "from": 20.28,
+      "to": 20.38,
+      "speaker": 0,
+      "confidence": 0.371,
+      "final": false
+    },
+    {
+      "from": 20.38,
+      "to": 20.68,
+      "speaker": 0,
+      "confidence": 0.371,
+      "final": true
+    }
+  ],
+  "filename": "talk-3.mp3"
+}

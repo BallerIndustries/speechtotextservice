@@ -1,0 +1,823 @@
+{
+  "results": [
+    {
+      "word_alternatives": [
+        {
+          "start_time": 0.6,
+          "alternatives": [
+            {
+              "confidence": 0.9975,
+              "word": "no"
+            }
+          ],
+          "end_time": 0.79
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "no",
+              0.6,
+              0.79
+            ],
+            [
+              "no",
+              0.79,
+              1.05
+            ],
+            [
+              "no",
+              1.05,
+              1.34
+            ]
+          ],
+          "confidence": 0.99,
+          "transcript": "no no no "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 2.44,
+          "alternatives": [
+            {
+              "confidence": 0.9995,
+              "word": "no"
+            }
+          ],
+          "end_time": 2.73
+        },
+        {
+          "start_time": 3.38,
+          "alternatives": [
+            {
+              "confidence": 0.9969,
+              "word": "no"
+            }
+          ],
+          "end_time": 3.6
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "no",
+              2.44,
+              2.73
+            ],
+            [
+              "no",
+              2.99,
+              3.2
+            ],
+            [
+              "no",
+              3.2,
+              3.38
+            ],
+            [
+              "no",
+              3.38,
+              3.6
+            ],
+            [
+              "it's",
+              3.6,
+              3.83
+            ],
+            [
+              "these",
+              3.83,
+              4.03
+            ],
+            [
+              "things",
+              4.03,
+              4.23
+            ],
+            [
+              "happen",
+              4.23,
+              4.56
+            ],
+            [
+              "show",
+              4.56,
+              4.9
+            ],
+            [
+              "that's",
+              4.94,
+              5.19
+            ],
+            [
+              "life",
+              5.19,
+              5.62
+            ],
+            [
+              "puts",
+              6.25,
+              6.65
+            ]
+          ],
+          "confidence": 0.742,
+          "transcript": "no no no no it's these things happen show that's life puts "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 8.69,
+          "alternatives": [
+            {
+              "confidence": 0.9928,
+              "word": "good"
+            }
+          ],
+          "end_time": 8.86
+        },
+        {
+          "start_time": 8.86,
+          "alternatives": [
+            {
+              "confidence": 0.9937,
+              "word": "memories"
+            }
+          ],
+          "end_time": 9.37
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "if",
+              7.53,
+              7.67
+            ],
+            [
+              "we",
+              7.67,
+              7.94
+            ],
+            [
+              "how",
+              7.94,
+              8.17
+            ],
+            [
+              "I",
+              8.17,
+              8.33
+            ],
+            [
+              "have",
+              8.33,
+              8.5
+            ],
+            [
+              "very",
+              8.5,
+              8.69
+            ],
+            [
+              "good",
+              8.69,
+              8.86
+            ],
+            [
+              "memories",
+              8.86,
+              9.37
+            ]
+          ],
+          "confidence": 0.792,
+          "transcript": "if we how I have very good memories "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 10.12,
+          "alternatives": [
+            {
+              "confidence": 0.979,
+              "word": "very"
+            }
+          ],
+          "end_time": 10.33
+        },
+        {
+          "start_time": 10.33,
+          "alternatives": [
+            {
+              "confidence": 0.979,
+              "word": "good"
+            }
+          ],
+          "end_time": 10.49
+        },
+        {
+          "start_time": 10.49,
+          "alternatives": [
+            {
+              "confidence": 0.9772,
+              "word": "memories"
+            }
+          ],
+          "end_time": 10.99
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "very",
+              10.12,
+              10.33
+            ],
+            [
+              "good",
+              10.33,
+              10.49
+            ],
+            [
+              "memories",
+              10.49,
+              10.99
+            ]
+          ],
+          "confidence": 0.94,
+          "transcript": "very good memories "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              11.36,
+              11.54
+            ],
+            [
+              "units",
+              11.54,
+              11.99
+            ]
+          ],
+          "confidence": 0.674,
+          "transcript": "and units "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              12.61,
+              12.73
+            ],
+            [
+              "I",
+              12.73,
+              12.77
+            ],
+            [
+              "have",
+              12.77,
+              12.87
+            ],
+            [
+              "to",
+              12.87,
+              12.98
+            ],
+            [
+              "tell",
+              12.98,
+              13.14
+            ],
+            [
+              "me",
+              13.14,
+              13.25
+            ],
+            [
+              "that",
+              13.25,
+              13.43
+            ],
+            [
+              "in",
+              13.43,
+              13.5
+            ],
+            [
+              "your",
+              13.5,
+              13.65
+            ],
+            [
+              "hands",
+              13.65,
+              13.93
+            ],
+            [
+              "with",
+              13.93,
+              14.06
+            ],
+            [
+              "memories",
+              14.06,
+              14.57
+            ]
+          ],
+          "confidence": 0.612,
+          "transcript": "and I have to tell me that in your hands with memories "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 15.16,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "you"
+            }
+          ],
+          "end_time": 15.32
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "you",
+              15.16,
+              15.32
+            ],
+            [
+              "can",
+              15.32,
+              15.45
+            ],
+            [
+              "remember",
+              15.45,
+              16
+            ],
+            [
+              "all",
+              16.03,
+              16.25
+            ],
+            [
+              "the",
+              16.25,
+              16.35
+            ],
+            [
+              "good",
+              16.35,
+              16.54
+            ],
+            [
+              "takes",
+              16.54,
+              17.01
+            ]
+          ],
+          "confidence": 0.659,
+          "transcript": "you can remember all the good takes "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "and",
+              17.32,
+              17.42
+            ],
+            [
+              "that's",
+              17.42,
+              17.63
+            ],
+            [
+              "the",
+              17.63,
+              17.7
+            ],
+            [
+              "important",
+              17.7,
+              18.11
+            ],
+            [
+              "thing",
+              18.11,
+              18.29
+            ]
+          ],
+          "confidence": 0.824,
+          "transcript": "and that's the important thing "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0,
+  "speaker_labels": [
+    {
+      "from": 0.6,
+      "to": 0.79,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 0.79,
+      "to": 1.05,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 1.05,
+      "to": 1.34,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 2.44,
+      "to": 2.73,
+      "speaker": 0,
+      "confidence": 0.535,
+      "final": false
+    },
+    {
+      "from": 2.99,
+      "to": 3.2,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 3.2,
+      "to": 3.38,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 3.38,
+      "to": 3.6,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 3.6,
+      "to": 3.83,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 3.83,
+      "to": 4.03,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 4.03,
+      "to": 4.23,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 4.23,
+      "to": 4.56,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 4.56,
+      "to": 4.9,
+      "speaker": 0,
+      "confidence": 0.52,
+      "final": false
+    },
+    {
+      "from": 4.94,
+      "to": 5.19,
+      "speaker": 0,
+      "confidence": 0.394,
+      "final": false
+    },
+    {
+      "from": 5.19,
+      "to": 5.62,
+      "speaker": 0,
+      "confidence": 0.394,
+      "final": false
+    },
+    {
+      "from": 6.25,
+      "to": 6.65,
+      "speaker": 2,
+      "confidence": 0.451,
+      "final": false
+    },
+    {
+      "from": 7.53,
+      "to": 7.67,
+      "speaker": 2,
+      "confidence": 0.453,
+      "final": false
+    },
+    {
+      "from": 7.67,
+      "to": 7.94,
+      "speaker": 2,
+      "confidence": 0.453,
+      "final": false
+    },
+    {
+      "from": 7.94,
+      "to": 8.17,
+      "speaker": 2,
+      "confidence": 0.453,
+      "final": false
+    },
+    {
+      "from": 8.17,
+      "to": 8.33,
+      "speaker": 2,
+      "confidence": 0.453,
+      "final": false
+    },
+    {
+      "from": 8.33,
+      "to": 8.5,
+      "speaker": 2,
+      "confidence": 0.453,
+      "final": false
+    },
+    {
+      "from": 8.5,
+      "to": 8.69,
+      "speaker": 2,
+      "confidence": 0.453,
+      "final": false
+    },
+    {
+      "from": 8.69,
+      "to": 8.86,
+      "speaker": 2,
+      "confidence": 0.453,
+      "final": false
+    },
+    {
+      "from": 8.86,
+      "to": 9.37,
+      "speaker": 2,
+      "confidence": 0.453,
+      "final": false
+    },
+    {
+      "from": 10.12,
+      "to": 10.33,
+      "speaker": 2,
+      "confidence": 0.499,
+      "final": false
+    },
+    {
+      "from": 10.33,
+      "to": 10.49,
+      "speaker": 2,
+      "confidence": 0.499,
+      "final": false
+    },
+    {
+      "from": 10.49,
+      "to": 10.99,
+      "speaker": 2,
+      "confidence": 0.499,
+      "final": false
+    },
+    {
+      "from": 11.36,
+      "to": 11.54,
+      "speaker": 0,
+      "confidence": 0.478,
+      "final": false
+    },
+    {
+      "from": 11.54,
+      "to": 11.99,
+      "speaker": 0,
+      "confidence": 0.478,
+      "final": false
+    },
+    {
+      "from": 12.61,
+      "to": 12.73,
+      "speaker": 2,
+      "confidence": 0.427,
+      "final": false
+    },
+    {
+      "from": 12.73,
+      "to": 12.77,
+      "speaker": 2,
+      "confidence": 0.427,
+      "final": false
+    },
+    {
+      "from": 12.77,
+      "to": 12.87,
+      "speaker": 2,
+      "confidence": 0.427,
+      "final": false
+    },
+    {
+      "from": 12.87,
+      "to": 12.98,
+      "speaker": 2,
+      "confidence": 0.427,
+      "final": false
+    },
+    {
+      "from": 12.98,
+      "to": 13.14,
+      "speaker": 2,
+      "confidence": 0.427,
+      "final": false
+    },
+    {
+      "from": 13.14,
+      "to": 13.25,
+      "speaker": 2,
+      "confidence": 0.427,
+      "final": false
+    },
+    {
+      "from": 13.25,
+      "to": 13.43,
+      "speaker": 2,
+      "confidence": 0.427,
+      "final": false
+    },
+    {
+      "from": 13.43,
+      "to": 13.5,
+      "speaker": 2,
+      "confidence": 0.427,
+      "final": false
+    },
+    {
+      "from": 13.5,
+      "to": 13.65,
+      "speaker": 2,
+      "confidence": 0.427,
+      "final": false
+    },
+    {
+      "from": 13.65,
+      "to": 13.93,
+      "speaker": 2,
+      "confidence": 0.427,
+      "final": false
+    },
+    {
+      "from": 13.93,
+      "to": 14.06,
+      "speaker": 2,
+      "confidence": 0.427,
+      "final": false
+    },
+    {
+      "from": 14.06,
+      "to": 14.57,
+      "speaker": 2,
+      "confidence": 0.427,
+      "final": false
+    },
+    {
+      "from": 15.16,
+      "to": 15.32,
+      "speaker": 0,
+      "confidence": 0.546,
+      "final": false
+    },
+    {
+      "from": 15.32,
+      "to": 15.45,
+      "speaker": 0,
+      "confidence": 0.546,
+      "final": false
+    },
+    {
+      "from": 15.45,
+      "to": 16,
+      "speaker": 0,
+      "confidence": 0.546,
+      "final": false
+    },
+    {
+      "from": 16.03,
+      "to": 16.25,
+      "speaker": 2,
+      "confidence": 0.567,
+      "final": false
+    },
+    {
+      "from": 16.25,
+      "to": 16.35,
+      "speaker": 2,
+      "confidence": 0.567,
+      "final": false
+    },
+    {
+      "from": 16.35,
+      "to": 16.54,
+      "speaker": 2,
+      "confidence": 0.567,
+      "final": false
+    },
+    {
+      "from": 16.54,
+      "to": 17.01,
+      "speaker": 2,
+      "confidence": 0.567,
+      "final": false
+    },
+    {
+      "from": 17.32,
+      "to": 17.42,
+      "speaker": 0,
+      "confidence": 0.467,
+      "final": false
+    },
+    {
+      "from": 17.42,
+      "to": 17.63,
+      "speaker": 0,
+      "confidence": 0.467,
+      "final": false
+    },
+    {
+      "from": 17.63,
+      "to": 17.7,
+      "speaker": 0,
+      "confidence": 0.467,
+      "final": false
+    },
+    {
+      "from": 17.7,
+      "to": 18.11,
+      "speaker": 0,
+      "confidence": 0.467,
+      "final": false
+    },
+    {
+      "from": 18.11,
+      "to": 18.29,
+      "speaker": 0,
+      "confidence": 0.467,
+      "final": true
+    }
+  ],
+  "filename": "talk-9.mp3"
+}

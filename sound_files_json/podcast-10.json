@@ -1,0 +1,1077 @@
+{
+  "results": [
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "your",
+              0.4,
+              0.53
+            ],
+            [
+              "expectations",
+              0.53,
+              1.52
+            ]
+          ],
+          "confidence": 0.988,
+          "transcript": "your expectations "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 2.41,
+          "alternatives": [
+            {
+              "confidence": 0.9495,
+              "word": "be"
+            }
+          ],
+          "end_time": 2.63
+        },
+        {
+          "start_time": 2.63,
+          "alternatives": [
+            {
+              "confidence": 0.9493,
+              "word": "clear"
+            }
+          ],
+          "end_time": 3.15
+        },
+        {
+          "start_time": 3.38,
+          "alternatives": [
+            {
+              "confidence": 0.9035,
+              "word": "from"
+            }
+          ],
+          "end_time": 3.6
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "be",
+              2.41,
+              2.63
+            ],
+            [
+              "clear",
+              2.63,
+              3.15
+            ],
+            [
+              "from",
+              3.38,
+              3.6
+            ],
+            [
+              "the",
+              3.6,
+              3.74
+            ],
+            [
+              "onset",
+              3.8,
+              4.3
+            ],
+            [
+              "about",
+              4.37,
+              4.69
+            ],
+            [
+              "what",
+              4.77,
+              5.02
+            ],
+            [
+              "you",
+              5.02,
+              5.31
+            ],
+            [
+              "expect",
+              5.31,
+              5.73
+            ],
+            [
+              "to",
+              5.73,
+              5.81
+            ],
+            [
+              "make",
+              6.34,
+              6.55
+            ],
+            [
+              "sure",
+              6.55,
+              6.76
+            ],
+            [
+              "you",
+              6.76,
+              6.99
+            ],
+            [
+              "understand",
+              7.06,
+              7.6
+            ],
+            [
+              "what",
+              7.6,
+              7.72
+            ],
+            [
+              "they",
+              7.79,
+              7.98
+            ],
+            [
+              "expect",
+              7.98,
+              8.37
+            ]
+          ],
+          "confidence": 0.661,
+          "transcript": "be clear from the onset about what you expect to make sure you understand what they expect "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "it's",
+              8.7,
+              8.85
+            ],
+            [
+              "well",
+              8.85,
+              9.02
+            ]
+          ],
+          "confidence": 0.334,
+          "transcript": "it's well "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "we",
+              9.57,
+              9.66
+            ],
+            [
+              "could",
+              9.66,
+              10.08
+            ],
+            [
+              "see",
+              10.08,
+              10.18
+            ],
+            [
+              "any",
+              10.49,
+              10.68
+            ],
+            [
+              "confusions",
+              10.68,
+              11.37
+            ],
+            [
+              "communication",
+              11.37,
+              12.01
+            ]
+          ],
+          "confidence": 0.705,
+          "transcript": "we could see any confusions communication "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "needs",
+              12.82,
+              13.15
+            ]
+          ],
+          "confidence": 0.146,
+          "transcript": "needs "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "appointment",
+              13.42,
+              13.87
+            ],
+            [
+              "or",
+              13.92,
+              14.12
+            ],
+            [
+              "ground",
+              14.12,
+              14.55
+            ]
+          ],
+          "confidence": 0.513,
+          "transcript": "appointment or ground "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 15,
+          "alternatives": [
+            {
+              "confidence": 1,
+              "word": "they"
+            }
+          ],
+          "end_time": 15.37
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "they",
+              15,
+              15.37
+            ],
+            [
+              "you",
+              15.46,
+              15.61
+            ],
+            [
+              "may",
+              15.61,
+              15.74
+            ],
+            [
+              "not",
+              15.74,
+              15.93
+            ],
+            [
+              "be",
+              15.93,
+              16.04
+            ],
+            [
+              "what",
+              16.04,
+              16.24
+            ],
+            [
+              "the",
+              16.24,
+              16.37
+            ],
+            [
+              "school",
+              16.37,
+              16.67
+            ],
+            [
+              "they",
+              16.67,
+              16.8
+            ],
+            [
+              "were",
+              16.8,
+              16.87
+            ],
+            [
+              "against",
+              16.87,
+              17.2
+            ],
+            [
+              "it",
+              17.2,
+              17.34
+            ],
+            [
+              "they",
+              17.77,
+              17.93
+            ],
+            [
+              "may",
+              17.93,
+              18.09
+            ],
+            [
+              "not",
+              18.09,
+              18.31
+            ],
+            [
+              "be",
+              18.31,
+              18.42
+            ],
+            [
+              "what",
+              18.42,
+              18.59
+            ],
+            [
+              "you",
+              18.67,
+              18.91
+            ]
+          ],
+          "confidence": 0.53,
+          "transcript": "they you may not be what the school they were against it they may not be what you "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "it",
+              19.83,
+              19.94
+            ],
+            [
+              "supports",
+              19.94,
+              20.36
+            ]
+          ],
+          "confidence": 0.386,
+          "transcript": "it supports "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [
+        {
+          "start_time": 22.29,
+          "alternatives": [
+            {
+              "confidence": 0.9942,
+              "word": "think"
+            }
+          ],
+          "end_time": 22.51
+        },
+        {
+          "start_time": 22.51,
+          "alternatives": [
+            {
+              "confidence": 0.9937,
+              "word": "about"
+            }
+          ],
+          "end_time": 22.7
+        },
+        {
+          "start_time": 22.7,
+          "alternatives": [
+            {
+              "confidence": 0.9728,
+              "word": "your"
+            }
+          ],
+          "end_time": 22.79
+        }
+      ],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "think",
+              22.29,
+              22.51
+            ],
+            [
+              "about",
+              22.51,
+              22.7
+            ],
+            [
+              "your",
+              22.7,
+              22.79
+            ],
+            [
+              "personal",
+              22.79,
+              23.17
+            ],
+            [
+              "birth",
+              23.17,
+              23.44
+            ],
+            [
+              "and",
+              23.44,
+              23.62
+            ],
+            [
+              "what's",
+              24.1,
+              24.4
+            ],
+            [
+              "do",
+              24.4,
+              24.52
+            ],
+            [
+              "you",
+              24.52,
+              24.63
+            ],
+            [
+              "want",
+              24.63,
+              24.8
+            ],
+            [
+              "to",
+              24.8,
+              24.9
+            ],
+            [
+              "get",
+              24.9,
+              25.04
+            ],
+            [
+              "out",
+              25.04,
+              25.21
+            ]
+          ],
+          "confidence": 0.661,
+          "transcript": "think about your personal birth and what's do you want to get out "
+        }
+      ],
+      "final": true
+    },
+    {
+      "word_alternatives": [],
+      "alternatives": [
+        {
+          "timestamps": [
+            [
+              "destroy",
+              25.69,
+              26.05
+            ],
+            [
+              "property",
+              26.05,
+              26.49
+            ],
+            [
+              "said",
+              26.49,
+              26.85
+            ],
+            [
+              "Mike",
+              27.23,
+              27.55
+            ],
+            [
+              "is",
+              27.87,
+              28.12
+            ],
+            [
+              "already",
+              28.12,
+              28.54
+            ],
+            [
+              "bought",
+              28.66,
+              28.95
+            ],
+            [
+              "its",
+              29.37,
+              29.61
+            ],
+            [
+              "media",
+              29.61,
+              29.94
+            ]
+          ],
+          "confidence": 0.426,
+          "transcript": "destroy property said Mike is already bought its media "
+        }
+      ],
+      "final": true
+    }
+  ],
+  "result_index": 0,
+  "speaker_labels": [
+    {
+      "from": 0.4,
+      "to": 0.53,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 0.53,
+      "to": 1.52,
+      "speaker": 0,
+      "confidence": 0.5,
+      "final": false
+    },
+    {
+      "from": 2.41,
+      "to": 2.63,
+      "speaker": 0,
+      "confidence": 0.443,
+      "final": false
+    },
+    {
+      "from": 2.63,
+      "to": 3.15,
+      "speaker": 0,
+      "confidence": 0.443,
+      "final": false
+    },
+    {
+      "from": 3.38,
+      "to": 3.6,
+      "speaker": 0,
+      "confidence": 0.57,
+      "final": false
+    },
+    {
+      "from": 3.6,
+      "to": 3.74,
+      "speaker": 0,
+      "confidence": 0.57,
+      "final": false
+    },
+    {
+      "from": 3.8,
+      "to": 4.3,
+      "speaker": 0,
+      "confidence": 0.419,
+      "final": false
+    },
+    {
+      "from": 4.37,
+      "to": 4.69,
+      "speaker": 0,
+      "confidence": 0.504,
+      "final": false
+    },
+    {
+      "from": 4.77,
+      "to": 5.02,
+      "speaker": 0,
+      "confidence": 0.485,
+      "final": false
+    },
+    {
+      "from": 5.02,
+      "to": 5.31,
+      "speaker": 0,
+      "confidence": 0.485,
+      "final": false
+    },
+    {
+      "from": 5.31,
+      "to": 5.73,
+      "speaker": 0,
+      "confidence": 0.485,
+      "final": false
+    },
+    {
+      "from": 5.73,
+      "to": 5.81,
+      "speaker": 0,
+      "confidence": 0.485,
+      "final": false
+    },
+    {
+      "from": 6.34,
+      "to": 6.55,
+      "speaker": 0,
+      "confidence": 0.423,
+      "final": false
+    },
+    {
+      "from": 6.55,
+      "to": 6.76,
+      "speaker": 0,
+      "confidence": 0.423,
+      "final": false
+    },
+    {
+      "from": 6.76,
+      "to": 6.99,
+      "speaker": 0,
+      "confidence": 0.423,
+      "final": false
+    },
+    {
+      "from": 7.06,
+      "to": 7.6,
+      "speaker": 0,
+      "confidence": 0.542,
+      "final": false
+    },
+    {
+      "from": 7.6,
+      "to": 7.72,
+      "speaker": 0,
+      "confidence": 0.542,
+      "final": false
+    },
+    {
+      "from": 7.79,
+      "to": 7.98,
+      "speaker": 0,
+      "confidence": 0.551,
+      "final": false
+    },
+    {
+      "from": 7.98,
+      "to": 8.37,
+      "speaker": 0,
+      "confidence": 0.551,
+      "final": false
+    },
+    {
+      "from": 8.7,
+      "to": 8.85,
+      "speaker": 0,
+      "confidence": 0.432,
+      "final": false
+    },
+    {
+      "from": 8.85,
+      "to": 9.02,
+      "speaker": 0,
+      "confidence": 0.432,
+      "final": false
+    },
+    {
+      "from": 9.57,
+      "to": 9.66,
+      "speaker": 0,
+      "confidence": 0.579,
+      "final": false
+    },
+    {
+      "from": 9.66,
+      "to": 10.08,
+      "speaker": 0,
+      "confidence": 0.579,
+      "final": false
+    },
+    {
+      "from": 10.08,
+      "to": 10.18,
+      "speaker": 0,
+      "confidence": 0.579,
+      "final": false
+    },
+    {
+      "from": 10.49,
+      "to": 10.68,
+      "speaker": 0,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 10.68,
+      "to": 11.37,
+      "speaker": 0,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 11.37,
+      "to": 12.01,
+      "speaker": 0,
+      "confidence": 0.49,
+      "final": false
+    },
+    {
+      "from": 12.82,
+      "to": 13.15,
+      "speaker": 0,
+      "confidence": 0.608,
+      "final": false
+    },
+    {
+      "from": 13.42,
+      "to": 13.87,
+      "speaker": 0,
+      "confidence": 0.579,
+      "final": false
+    },
+    {
+      "from": 13.92,
+      "to": 14.12,
+      "speaker": 0,
+      "confidence": 0.512,
+      "final": false
+    },
+    {
+      "from": 14.12,
+      "to": 14.55,
+      "speaker": 0,
+      "confidence": 0.512,
+      "final": false
+    },
+    {
+      "from": 15,
+      "to": 15.37,
+      "speaker": 0,
+      "confidence": 0.592,
+      "final": false
+    },
+    {
+      "from": 15.46,
+      "to": 15.61,
+      "speaker": 0,
+      "confidence": 0.461,
+      "final": false
+    },
+    {
+      "from": 15.61,
+      "to": 15.74,
+      "speaker": 0,
+      "confidence": 0.461,
+      "final": false
+    },
+    {
+      "from": 15.74,
+      "to": 15.93,
+      "speaker": 0,
+      "confidence": 0.461,
+      "final": false
+    },
+    {
+      "from": 15.93,
+      "to": 16.04,
+      "speaker": 0,
+      "confidence": 0.461,
+      "final": false
+    },
+    {
+      "from": 16.04,
+      "to": 16.24,
+      "speaker": 0,
+      "confidence": 0.461,
+      "final": false
+    },
+    {
+      "from": 16.24,
+      "to": 16.37,
+      "speaker": 0,
+      "confidence": 0.461,
+      "final": false
+    },
+    {
+      "from": 16.37,
+      "to": 16.67,
+      "speaker": 0,
+      "confidence": 0.461,
+      "final": false
+    },
+    {
+      "from": 16.67,
+      "to": 16.8,
+      "speaker": 0,
+      "confidence": 0.461,
+      "final": false
+    },
+    {
+      "from": 16.8,
+      "to": 16.87,
+      "speaker": 0,
+      "confidence": 0.461,
+      "final": false
+    },
+    {
+      "from": 16.87,
+      "to": 17.2,
+      "speaker": 0,
+      "confidence": 0.461,
+      "final": false
+    },
+    {
+      "from": 17.2,
+      "to": 17.34,
+      "speaker": 0,
+      "confidence": 0.461,
+      "final": false
+    },
+    {
+      "from": 17.77,
+      "to": 17.93,
+      "speaker": 0,
+      "confidence": 0.589,
+      "final": false
+    },
+    {
+      "from": 17.93,
+      "to": 18.09,
+      "speaker": 0,
+      "confidence": 0.589,
+      "final": false
+    },
+    {
+      "from": 18.09,
+      "to": 18.31,
+      "speaker": 0,
+      "confidence": 0.589,
+      "final": false
+    },
+    {
+      "from": 18.31,
+      "to": 18.42,
+      "speaker": 0,
+      "confidence": 0.589,
+      "final": false
+    },
+    {
+      "from": 18.42,
+      "to": 18.59,
+      "speaker": 0,
+      "confidence": 0.589,
+      "final": false
+    },
+    {
+      "from": 18.67,
+      "to": 18.91,
+      "speaker": 0,
+      "confidence": 0.62,
+      "final": false
+    },
+    {
+      "from": 19.83,
+      "to": 19.94,
+      "speaker": 0,
+      "confidence": 0.553,
+      "final": false
+    },
+    {
+      "from": 19.94,
+      "to": 20.36,
+      "speaker": 0,
+      "confidence": 0.553,
+      "final": false
+    },
+    {
+      "from": 22.29,
+      "to": 22.51,
+      "speaker": 0,
+      "confidence": 0.569,
+      "final": false
+    },
+    {
+      "from": 22.51,
+      "to": 22.7,
+      "speaker": 0,
+      "confidence": 0.569,
+      "final": false
+    },
+    {
+      "from": 22.7,
+      "to": 22.79,
+      "speaker": 0,
+      "confidence": 0.569,
+      "final": false
+    },
+    {
+      "from": 22.79,
+      "to": 23.17,
+      "speaker": 0,
+      "confidence": 0.569,
+      "final": false
+    },
+    {
+      "from": 23.17,
+      "to": 23.44,
+      "speaker": 0,
+      "confidence": 0.569,
+      "final": false
+    },
+    {
+      "from": 23.44,
+      "to": 23.62,
+      "speaker": 0,
+      "confidence": 0.569,
+      "final": false
+    },
+    {
+      "from": 24.1,
+      "to": 24.4,
+      "speaker": 0,
+      "confidence": 0.362,
+      "final": false
+    },
+    {
+      "from": 24.4,
+      "to": 24.52,
+      "speaker": 0,
+      "confidence": 0.362,
+      "final": false
+    },
+    {
+      "from": 24.52,
+      "to": 24.63,
+      "speaker": 0,
+      "confidence": 0.362,
+      "final": false
+    },
+    {
+      "from": 24.63,
+      "to": 24.8,
+      "speaker": 0,
+      "confidence": 0.362,
+      "final": false
+    },
+    {
+      "from": 24.8,
+      "to": 24.9,
+      "speaker": 0,
+      "confidence": 0.362,
+      "final": false
+    },
+    {
+      "from": 24.9,
+      "to": 25.04,
+      "speaker": 0,
+      "confidence": 0.362,
+      "final": false
+    },
+    {
+      "from": 25.04,
+      "to": 25.21,
+      "speaker": 0,
+      "confidence": 0.362,
+      "final": false
+    },
+    {
+      "from": 25.69,
+      "to": 26.05,
+      "speaker": 0,
+      "confidence": 0.432,
+      "final": false
+    },
+    {
+      "from": 26.05,
+      "to": 26.49,
+      "speaker": 0,
+      "confidence": 0.432,
+      "final": false
+    },
+    {
+      "from": 26.49,
+      "to": 26.85,
+      "speaker": 0,
+      "confidence": 0.432,
+      "final": false
+    },
+    {
+      "from": 27.23,
+      "to": 27.55,
+      "speaker": 0,
+      "confidence": 0.497,
+      "final": false
+    },
+    {
+      "from": 27.87,
+      "to": 28.12,
+      "speaker": 0,
+      "confidence": 0.503,
+      "final": false
+    },
+    {
+      "from": 28.12,
+      "to": 28.54,
+      "speaker": 0,
+      "confidence": 0.503,
+      "final": false
+    },
+    {
+      "from": 28.66,
+      "to": 28.95,
+      "speaker": 0,
+      "confidence": 0.561,
+      "final": false
+    },
+    {
+      "from": 29.37,
+      "to": 29.61,
+      "speaker": 0,
+      "confidence": 0.362,
+      "final": false
+    },
+    {
+      "from": 29.61,
+      "to": 29.94,
+      "speaker": 0,
+      "confidence": 0.362,
+      "final": true
+    }
+  ],
+  "filename": "podcast-10.mp3"
+}
