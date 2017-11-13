@@ -16,6 +16,9 @@
     "multer": "^1.3.0",
     "quick-gist": "^1.4.0",
     "serve-favicon": "~2.4.5",
+    "short-url": "0.0.1",
+    "shorturl": "0.0.3",
+    "tinyurl": "^1.1.2",
     "watson-developer-cloud": "^2.42.0"
   }
 }
