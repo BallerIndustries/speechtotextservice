@@ -45,7 +45,7 @@ router.post('/', upload.single('audio'), function(request, response) {
 
             console.log('Successfully transcribed by Watson');
 
-            transcript.filename ='10001-90210-01803.wav' ;
+            transcript.filename = request.file.originalname;
             quickGist({
                 content: JSON.stringify(transcript, null, 2),
                 public: false, // Whether the gist should be public or unlisted. Defaults to false (unlisted).
