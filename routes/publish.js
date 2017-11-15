@@ -20,6 +20,11 @@ var speech_to_text = new SpeechToTextV1 ({
 router.post('/', upload.single('audio'), function(request, response) {
 
     var filepath = './uploads/'+request.file.originalname;
+    //var model = request.body.model || 'en-US_BroadbandModel';
+    var model = 'zh-CN_BroadbandModel';
+    var speakerLabels = model === 'en-US_BroadbandModel';
+
+    console.log('model = ' + model);
 
     console.log(filepath);
     fs.rename('./uploads/'+request.file.filename, filepath, function (err) {
@@ -36,12 +41,16 @@ router.post('/', upload.single('audio'), function(request, response) {
             content_type: request.file.mimetype,
             timestamps: true,
             word_alternatives_threshold: 0.9,
-            speaker_labels: true
+            speaker_labels: speakerLabels,
+            model: model
         };
 
         speech_to_text.recognize(params, function(error, transcript) {
-            if (error)
+            if (error) {
+                console.log('Failed to recognise. error = ' + error);
                 return response.status(500).send(err);
+            }
+
 
             console.log('Successfully transcribed by Watson');
 
